@@ -1,0 +1,17 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CRUE_03_161 Gestión Académica. TFG y TFM"
+    id="48064d69-3974-496d-80b6-44e7e5fe7f27">
+  <properties
+      key="Código CRUE"
+      value="CRUE_03_161"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Gestión Académica. TFG y TFM."/>
+  <properties
+      key="Descripción Servicio"
+      value="Aplicaciones para la gestión de los procedimientos asociados a la consecución de trabajos fin de grado y trabajos fin de máster. No se refiere al repositorio de TFG/TFMs recogido en el grupo de &quot;Publicación WEB&quot;, sino a la gestión del procedimiento"/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

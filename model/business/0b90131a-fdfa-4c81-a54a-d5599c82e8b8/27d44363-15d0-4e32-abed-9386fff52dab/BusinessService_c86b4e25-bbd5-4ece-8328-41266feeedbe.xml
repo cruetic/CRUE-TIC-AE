@@ -1,0 +1,17 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CRUE_03_34&#x9;Gestión RR.HH. Retribuciones"
+    id="c86b4e25-bbd5-4ece-8328-41266feeedbe">
+  <properties
+      key="Código CRUE"
+      value="CRUE_03_34"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Gestión RR.HH. Retribuciones."/>
+  <properties
+      key="Descripción Servicio"
+      value="Aplicaciones para la gestión de las retribuciones a personal de la Universidad, incluyendo  comisión de servicio y nóminas"/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

@@ -1,0 +1,17 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CRUE_03_29&#x9;Gestión RR.HH. Diseño de plantilla"
+    id="a861ffdd-b512-421e-8576-4aaaee63ab92">
+  <properties
+      key="Código CRUE"
+      value="CRUE_03_29"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Gestión RR.HH. Diseño de plantilla."/>
+  <properties
+      key="Descripción Servicio"
+      value="Aplicaciones para la gestión y el diseño de la Relación de Puestos de Trabajo de la Universidad"/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

@@ -1,0 +1,17 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CRUE_03_40&#x9;Secretaría General."
+    id="0932b7a5-5f5c-4764-8cf7-2fa26b19d07c">
+  <properties
+      key="Código CRUE"
+      value="CRUE_03_40"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Secretaría General."/>
+  <properties
+      key="Descripción Servicio"
+      value="Aplicaciones para la gestión de los procesos relacionados con la Secretaría General"/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

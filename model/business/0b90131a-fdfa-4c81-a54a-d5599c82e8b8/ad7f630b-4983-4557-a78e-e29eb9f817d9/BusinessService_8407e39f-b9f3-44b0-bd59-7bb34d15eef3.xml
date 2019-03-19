@@ -1,0 +1,17 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CRUE_03_37&#x9;Extensión Universitaria. Bolsa de alojamiento"
+    id="8407e39f-b9f3-44b0-bd59-7bb34d15eef3">
+  <properties
+      key="Código CRUE"
+      value="CRUE_03_37"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Extensión Universitaria. "/>
+  <properties
+      key="Descripción Servicio"
+      value="Aplicaciones para la gestión de la oferta de alquiler de viviendas para estudiantes"/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

@@ -1,0 +1,17 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CRUE_03_183 Gestión de la investigación. Convocatorias, subvenciones, ayudas y donaciones para investigación"
+    id="90edeacb-b229-4a59-91f6-4c4c76586a44">
+  <properties
+      key="Código CRUE"
+      value="CRUE_03_183"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Gestión de la Investigación. Convocatorias, subvenciones, ayudas y donaciones para investigación."/>
+  <properties
+      key="Descripción Servicio"
+      value="Aplicaciones para la gestión de convocatorias, subvenciones, ayudas y donaciones para investigación"/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

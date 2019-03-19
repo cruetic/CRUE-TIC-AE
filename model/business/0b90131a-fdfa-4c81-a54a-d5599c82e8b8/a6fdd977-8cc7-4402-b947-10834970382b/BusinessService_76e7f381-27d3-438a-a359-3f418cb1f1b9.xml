@@ -1,0 +1,17 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CRUE_03_184 Gestión de la investigación. Currículum."
+    id="76e7f381-27d3-438a-a359-3f418cb1f1b9">
+  <properties
+      key="Código CRUE"
+      value="CRUE_03_184"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Gestión de la Investigación. Currículum."/>
+  <properties
+      key="Descripción Servicio"
+      value="Aplicaciones para la gestión de currículum de investigadores"/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

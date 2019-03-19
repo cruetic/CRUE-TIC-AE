@@ -1,0 +1,17 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CRUE_03_13&#x9;Gestión Académica. Necesidades educativas especiales"
+    id="ce22a357-d65f-463c-a3c2-7ad549171cf8">
+  <properties
+      key="Código CRUE"
+      value="CRUE_03_13"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Gestión Académica. Necesidades educativas especiales."/>
+  <properties
+      key="Descripción Servicio"
+      value="Aplicaciones para la gestión de las necesidades educativas especiales"/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

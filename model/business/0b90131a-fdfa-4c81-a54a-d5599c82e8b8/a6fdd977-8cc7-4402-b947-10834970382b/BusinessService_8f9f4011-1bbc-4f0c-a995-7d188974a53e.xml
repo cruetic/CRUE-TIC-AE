@@ -1,0 +1,17 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CRUE_03_181 Gestión de la Investigación. Grupos de investigación"
+    id="8f9f4011-1bbc-4f0c-a995-7d188974a53e">
+  <properties
+      key="Código CRUE"
+      value="CRUE_03_181"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Gestión de la Investigación. Grupos de investigación."/>
+  <properties
+      key="Descripción Servicio"
+      value="Aplicaciones para la gestión de los grupos de investigación"/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

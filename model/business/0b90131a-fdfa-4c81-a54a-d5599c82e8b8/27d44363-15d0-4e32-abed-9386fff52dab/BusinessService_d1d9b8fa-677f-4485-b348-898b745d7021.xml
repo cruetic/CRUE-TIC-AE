@@ -1,0 +1,17 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CRUE_03_30&#x9;Gestión RR.HH. Control Horario"
+    id="d1d9b8fa-677f-4485-b348-898b745d7021">
+  <properties
+      key="Código CRUE"
+      value="CRUE_03_30"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Gestión RR.HH. Control Horario."/>
+  <properties
+      key="Descripción Servicio"
+      value="Aplicaciones para la gestión de entradas y salidas del puesto del trabajo del personal universitario."/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

@@ -1,0 +1,17 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CRUE_03_36&#x9;Extensión Universitaria. Actividades Deportivas"
+    id="04a3fc38-57b3-4546-bbd3-a2c44532eca3">
+  <properties
+      key="Código CRUE"
+      value="CRUE_03_36"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Extensión Universitaria. Actividades Deportivas."/>
+  <properties
+      key="Descripción Servicio"
+      value="Aplicaciones para la gestión de los procesos gestionado por el Servicio de Deportes. "/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

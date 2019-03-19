@@ -1,0 +1,17 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CRUE_03_14&#x9;Gestión Académica. Plan Docente"
+    id="25ae24be-53d7-4e49-9bf6-11e110f0f403">
+  <properties
+      key="Código CRUE"
+      value="CRUE_03_14"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Gestión Académica. Plan Docente."/>
+  <properties
+      key="Descripción Servicio"
+      value="Aplicaciones para la gestión de  la carga docente asociada a cada profesor."/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

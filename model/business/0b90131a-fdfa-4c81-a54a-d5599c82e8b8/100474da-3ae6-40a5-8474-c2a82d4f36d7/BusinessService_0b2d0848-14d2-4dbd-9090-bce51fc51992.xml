@@ -1,0 +1,17 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CRUE_03_16&#x9;Gestión Académica. Tesis"
+    id="0b2d0848-14d2-4dbd-9090-bce51fc51992">
+  <properties
+      key="Código CRUE"
+      value="CRUE_03_16"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Gestión Académica. Tesis"/>
+  <properties
+      key="Descripción Servicio"
+      value="Aplicaciones para la gestión de los procedimientos asociados a la consecución de una tesis doctoral. No se refiere al repositorio de Tesis recogido en el grupo de &quot;Publicación WEB&quot;, sino a la gestión del procedimiento"/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

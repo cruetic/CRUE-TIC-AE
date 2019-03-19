@@ -1,0 +1,17 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CRUE_03_23&#x9;Gestión Económica. Gestión de Fondos FEDER"
+    id="33d98733-7067-4f14-98d9-50f82086c3bb">
+  <properties
+      key="Código CRUE"
+      value="CRUE_03_23"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Gestión Económica. Gestión de Fondos FEDER."/>
+  <properties
+      key="Descripción Servicio"
+      value="Aplicaciones para la gestión de los procesos asociados a la gestión económica de las ayudas de financiación europeas."/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>
