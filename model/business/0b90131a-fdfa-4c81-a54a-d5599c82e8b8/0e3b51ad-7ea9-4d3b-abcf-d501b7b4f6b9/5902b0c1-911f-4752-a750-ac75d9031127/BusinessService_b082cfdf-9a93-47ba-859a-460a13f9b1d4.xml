@@ -9,7 +9,8 @@
       key="Nombre del Servicio"
       value="Secretaría General. Gestión de expedientes jurídicos."/>
   <properties
-      key="Descripción Servicio"/>
+      key="Descripción Servicio"
+      value=" "/>
   <properties
       key="Tipo"
       value="Servicio"/>
