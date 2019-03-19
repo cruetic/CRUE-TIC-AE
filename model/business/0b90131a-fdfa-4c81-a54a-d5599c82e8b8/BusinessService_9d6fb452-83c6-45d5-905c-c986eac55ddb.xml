@@ -12,5 +12,6 @@
       key="Descripción Servicio"
       value="Aplicaciones para la gestión de las solicitudes de becas de los alumnos."/>
   <properties
-      key="Tipo"/>
+      key="Tipo"
+      value="Servicio."/>
 </archimate:BusinessService>
