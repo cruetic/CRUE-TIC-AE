@@ -12,5 +12,6 @@
       key="Descripción Servicio"
       value="Diseño, administración y gestión de las comunicaciones basadas en correo electrónico, destinado al PAS y PDI."/>
   <properties
-      key="Tipo"/>
+      key="Tipo"
+      value="Servicio"/>
 </archimate:BusinessService>
