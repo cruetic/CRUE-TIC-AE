@@ -1,0 +1,17 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CRUE_03_24&#x9;Gestión Económica. Patrimonio e Inventario"
+    id="5662d73d-9985-4cb1-9b96-80acfaa40c35">
+  <properties
+      key="Código CRUE"
+      value="CRUE_03_24"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Gestión Económica. Patrimonio e Inventario."/>
+  <properties
+      key="Descripción Servicio"
+      value="Aplicaciones para la gestión del patrimonio de bienes muebles e inmuebles de la Universidad e inventario de los mismos."/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

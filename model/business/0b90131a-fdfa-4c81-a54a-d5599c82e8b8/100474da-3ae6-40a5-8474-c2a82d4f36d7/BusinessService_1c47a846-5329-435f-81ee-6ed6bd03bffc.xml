@@ -1,0 +1,17 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CRUE_03_17&#x9;Gestión Académica. Prácticas de empresa"
+    id="1c47a846-5329-435f-81ee-6ed6bd03bffc">
+  <properties
+      key="Código CRUE"
+      value="CRUE_03_17"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Gestión Académica. Prácticas de empresa."/>
+  <properties
+      key="Descripción Servicio"
+      value="Aplicaciones para la gestión de las prácticas en empresas de estudiantes universitarios"/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

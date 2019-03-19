@@ -1,0 +1,17 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CRUE_03_09&#x9;Gestión Académica. Gestión de Horarios"
+    id="ce9ebc70-d2b3-4018-bafd-197fab9b3805">
+  <properties
+      key="Código CRUE"
+      value="CRUE_03_09"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Gestión Académica. Gestión de Horarios."/>
+  <properties
+      key="Descripción Servicio"
+      value="Aplicaciones para la gestión de los cuadros horarios de docencia."/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

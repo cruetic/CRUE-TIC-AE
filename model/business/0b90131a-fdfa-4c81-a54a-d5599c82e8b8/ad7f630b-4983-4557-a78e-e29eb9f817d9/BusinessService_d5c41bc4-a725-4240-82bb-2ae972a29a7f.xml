@@ -1,0 +1,17 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CRUE_03_35&#x9;Extensión Universitaria"
+    id="d5c41bc4-a725-4240-82bb-2ae972a29a7f">
+  <properties
+      key="Código CRUE"
+      value="CRUE_03_35"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Extensión Universitaria."/>
+  <properties
+      key="Descripción Servicio"
+      value="Aplicaciones para la gestión de los procesos relacionados con la Extensión Universitaria."/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

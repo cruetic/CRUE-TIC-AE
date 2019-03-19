@@ -1,0 +1,17 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CRUE_03_22&#x9;Gestión Económica. Tesorería"
+    id="d9638ace-8698-4619-a76b-6f6ff93863ea">
+  <properties
+      key="Código CRUE"
+      value="CRUE_03_22"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Gestión Económica. Tesorería."/>
+  <properties
+      key="Descripción Servicio"
+      value="Aplicaciones para la gestión de la tesorería económica de la Universidad"/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

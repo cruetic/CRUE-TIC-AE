@@ -1,0 +1,17 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CRUE_03_38&#x9;Extensión Universitaria. Enseñanza no reglada"
+    id="27554508-55fe-46ff-b98d-00ac2ea19832">
+  <properties
+      key="Código CRUE"
+      value="CRUE_03_38"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Extensión Universitaria. Enseñanza no reglada."/>
+  <properties
+      key="Descripción Servicio"
+      value="Aplicaciones para la gestión de los procedimientos académicos de las enseñanzas no regladas, incluyendo cursos de verano."/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

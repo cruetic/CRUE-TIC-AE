@@ -1,0 +1,17 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CRUE_03_32&#x9;Gestión RR.HH. Formación"
+    id="f4099aae-c714-4b1d-907e-b8b034e93691">
+  <properties
+      key="Código CRUE"
+      value="CRUE_03_32"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Gestión RR.HH. Formación."/>
+  <properties
+      key="Descripción Servicio"
+      value="Aplicaciones para la gestión de los procesos de formación interna destinados a personal de la Universidad"/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

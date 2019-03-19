@@ -1,0 +1,17 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CRUE_03_25&#x9;Gestión Económica. Ingresos"
+    id="2eaab192-720a-42c1-bbf7-8dfd7e40cb07">
+  <properties
+      key="Código CRUE"
+      value="CRUE_03_25"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Gestión Económica. Ingresos."/>
+  <properties
+      key="Descripción Servicio"
+      value="Aplicaciones para la gestión de todos los ingresos, incluyendo las tasas universitarias."/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

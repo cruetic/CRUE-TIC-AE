@@ -1,0 +1,17 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CRUE_03_19&#x9;Gestión Económica"
+    id="d57d81aa-fa11-4b91-a5ff-cebdea79ef85">
+  <properties
+      key="Código CRUE"
+      value="CRUE_03_19"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Gestión Económica."/>
+  <properties
+      key="Descripción Servicio"
+      value="Aplicaciones para la gestión económica de la Universidad."/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

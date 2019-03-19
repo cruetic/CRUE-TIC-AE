@@ -1,0 +1,17 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CRUE_03_41&#x9;Secretaría General. Archivo Universitario"
+    id="4c74459f-3fbb-4e61-91e4-62ff962c3f84">
+  <properties
+      key="Código CRUE"
+      value="CRUE_03_41"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Secretaría General. Archivo Universitario."/>
+  <properties
+      key="Descripción Servicio"
+      value="Aplicaciones para la gestión y mantenimiento del Archivo universitario en todo diferentes soportes como documentos, fichas, DVD, negativos y positivos fotográficos, cuadernos, películas o impresos."/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

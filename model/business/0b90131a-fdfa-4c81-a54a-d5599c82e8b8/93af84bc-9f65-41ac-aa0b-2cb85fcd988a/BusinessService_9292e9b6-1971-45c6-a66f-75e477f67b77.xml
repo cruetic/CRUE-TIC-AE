@@ -1,0 +1,17 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CRUE_03_21&#x9;Gestión Económica. Contratación"
+    id="9292e9b6-1971-45c6-a66f-75e477f67b77">
+  <properties
+      key="Código CRUE"
+      value="CRUE_03_21"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Gestión Económica. Contratación."/>
+  <properties
+      key="Descripción Servicio"
+      value="Aplicaciones para la gestión de los contratos que establece la Universidad con terceros. Incluye perfil del contratante"/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

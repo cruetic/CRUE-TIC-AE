@@ -1,0 +1,17 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CRUE_03_20&#x9;Gestión Económica. Contabilidad Analítica"
+    id="0fce6a1c-af5f-4ad1-84a3-766ec0b18dd0">
+  <properties
+      key="Código CRUE"
+      value="CRUE_03_20"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Gestión Económica. Contabilidad Analítica."/>
+  <properties
+      key="Descripción Servicio"
+      value="Aplicaciones para la gestión de los procesos asociados a la contabilidad analítica."/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

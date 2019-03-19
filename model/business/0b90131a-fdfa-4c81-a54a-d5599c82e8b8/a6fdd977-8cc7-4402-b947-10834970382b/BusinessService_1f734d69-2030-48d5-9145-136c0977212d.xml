@@ -1,0 +1,17 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CRUE_03_182 Gestión de la Investigación. Proyectos de investigación"
+    id="1f734d69-2030-48d5-9145-136c0977212d">
+  <properties
+      key="Código CRUE"
+      value="CRUE_03_182"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Gestión de la Investigación. Proyectos de investigación."/>
+  <properties
+      key="Descripción Servicio"
+      value="Aplicaciones para la gestión de los proyectos de investigación"/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

@@ -1,0 +1,17 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CRUE_03_15&#x9;Gestión Académica. Secretaría Virtual"
+    id="8c8a9b60-a1e4-4ae3-8532-63d2da4525ec">
+  <properties
+      key="Código CRUE"
+      value="CRUE_03_15"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Gestión Académica. Secretaría Virtual"/>
+  <properties
+      key="Descripción Servicio"
+      value="Aplicaciones para la gestión de los procedimientos asociados a expedientes académicos de los alumnos"/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

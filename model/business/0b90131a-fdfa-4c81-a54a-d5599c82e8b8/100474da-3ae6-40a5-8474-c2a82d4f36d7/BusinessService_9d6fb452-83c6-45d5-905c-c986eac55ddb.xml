@@ -1,0 +1,17 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CRUE_03_06&#x9;Gestión Académica. Becas, ayudas y subvenciones "
+    id="9d6fb452-83c6-45d5-905c-c986eac55ddb">
+  <properties
+      key="Código CRUE"
+      value="CRUE_03_06"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Gestión Académica. Becas, ayudas y subvenciones."/>
+  <properties
+      key="Descripción Servicio"
+      value="Aplicaciones para la gestión de las solicitudes de becas de los alumnos."/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

@@ -1,0 +1,17 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CRUE_03_39&#x9;Extensión Universitaria. Préstamo de Bicicletas"
+    id="a158a0b5-a54a-4075-966b-347a63276225">
+  <properties
+      key="Código CRUE"
+      value="CRUE_03_39"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Extensión Universitaria. Préstamo de Bicicletas."/>
+  <properties
+      key="Descripción Servicio"
+      value="Aplicaciones para la gestión del préstamo de bicicletas de la Universidad."/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

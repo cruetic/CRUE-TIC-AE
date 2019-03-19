@@ -1,0 +1,17 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CRUE_03_26&#x9;Gestión Económica. Presupuestos"
+    id="f03c1b50-8736-40b9-a42e-ddce0cd1e5e3">
+  <properties
+      key="Código CRUE"
+      value="CRUE_03_26"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Gestión Económica. Presupuestos."/>
+  <properties
+      key="Descripción Servicio"
+      value="Aplicaciones para la gestión del presupuesto de la Universidad."/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>
