@@ -1,4 +1,17 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_03_04&#x9;Gestión Académica. Actas"
-    id="c991335b-259a-4175-83b1-4c5613a51773"/>
+    id="c991335b-259a-4175-83b1-4c5613a51773">
+  <properties
+      key="Código CRUE"
+      value="CRUE_03_04"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Gestión Académica. Actas"/>
+  <properties
+      key="Descripción Servicio"
+      value="Aplicaciones para la gestión de los procedimientos necesarios para la elaboración de las actas de calificación."/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

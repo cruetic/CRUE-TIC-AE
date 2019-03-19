@@ -1,4 +1,17 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_00_14&#x9;Sellos electrónicos"
-    id="34f76835-9a73-4d2d-86d9-6785d90074be"/>
+    id="34f76835-9a73-4d2d-86d9-6785d90074be">
+  <properties
+      key="Código CRUE"
+      value="CRUE_00_14"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Sellos electrónicos"/>
+  <properties
+      key="Descripción Servicio"
+      value="Sellos electrónicos de órgano para la actuación administrativa automatizada"/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

@@ -1,4 +1,17 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_02_021 Infraestructura como servicio para la investigación"
-    id="524a35c4-c9f7-4cce-ab0b-bcdf32cd5544"/>
+    id="524a35c4-c9f7-4cce-ab0b-bcdf32cd5544">
+  <properties
+      key="Código CRUE"
+      value="CRUE_02_021"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Infraestructura como servicio para la investigación"/>
+  <properties
+      key="Descripción Servicio"
+      value="Creación de servidores virtuales para alojar servicios de investigación. Incluye IaaS y PaaS."/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

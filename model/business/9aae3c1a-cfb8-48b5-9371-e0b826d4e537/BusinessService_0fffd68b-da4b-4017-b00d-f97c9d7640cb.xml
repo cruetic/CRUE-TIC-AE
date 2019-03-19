@@ -1,4 +1,17 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_02_01&#x9;Supercomputación"
-    id="0fffd68b-da4b-4017-b00d-f97c9d7640cb"/>
+    id="0fffd68b-da4b-4017-b00d-f97c9d7640cb">
+  <properties
+      key="Código CRUE"
+      value="CRUE_02_01"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Supercomputación"/>
+  <properties
+      key="Descripción Servicio"
+      value="Gestión de los recursos TIC  de computación de altas prestaciones orientados al cálculo o al procesamiento de datos científicos."/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

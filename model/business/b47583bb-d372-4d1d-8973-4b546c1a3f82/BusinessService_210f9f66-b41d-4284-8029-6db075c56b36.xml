@@ -1,4 +1,16 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_00_10&#x9;Gestión de versiones"
-    id="210f9f66-b41d-4284-8029-6db075c56b36"/>
+    id="210f9f66-b41d-4284-8029-6db075c56b36">
+  <properties
+      key="Código CRUE"
+      value="CRUE_00_10"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Gestión de versiones"/>
+  <properties
+      key="Descripción Servicio"/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

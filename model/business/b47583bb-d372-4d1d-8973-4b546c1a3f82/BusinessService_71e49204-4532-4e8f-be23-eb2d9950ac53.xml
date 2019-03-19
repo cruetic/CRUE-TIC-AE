@@ -1,4 +1,17 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_00_01&#x9;Autenticación Centralizada"
-    id="71e49204-4532-4e8f-be23-eb2d9950ac53"/>
+    id="71e49204-4532-4e8f-be23-eb2d9950ac53">
+  <properties
+      key="Código CRUE"
+      value="CRUE_00_01"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Autenticación Centralizada"/>
+  <properties
+      key="Descripción Servicio"
+      value="Diseño, administración y gestión de la plataforma que facilita el acceso autenticado a los distintos servicios y aplicaciones de la Universidad mediante las claves concertadas de un usuario. "/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

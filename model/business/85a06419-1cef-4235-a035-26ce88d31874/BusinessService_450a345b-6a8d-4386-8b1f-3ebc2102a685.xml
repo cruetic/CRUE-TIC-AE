@@ -1,4 +1,17 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_01_051 Grabación automática de clases"
-    id="450a345b-6a8d-4386-8b1f-3ebc2102a685"/>
+    id="450a345b-6a8d-4386-8b1f-3ebc2102a685">
+  <properties
+      key="Código CRUE"
+      value="CRUE_01_051"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Grabación automática de clases"/>
+  <properties
+      key="Descripción Servicio"
+      value="Implantación, gestión y soporte de soluciones para grabación de clases, ya sea atendida o desatendida por personal TI. Excluye el alojamiento de objetos multimedia que se recoge en el grupo 5"/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

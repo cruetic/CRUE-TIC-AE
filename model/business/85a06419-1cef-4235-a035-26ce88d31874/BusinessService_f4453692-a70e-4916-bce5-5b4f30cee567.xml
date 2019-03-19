@@ -1,4 +1,17 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_01_03&#x9;Soporte a aulas de Informática presenciales de uso docente "
-    id="f4453692-a70e-4916-bce5-5b4f30cee567"/>
+    id="f4453692-a70e-4916-bce5-5b4f30cee567">
+  <properties
+      key="Código CRUE"
+      value="CRUE_01_03"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Soporte a aulas de informática presenciales de uso docente"/>
+  <properties
+      key="Descripción Servicio"
+      value="Instalación y configuración de equipos y software, en aulas de uso docente. Incluye laboratorios y aulas virtualizadas. Se trata de aulas que cuentan con puestos de trabajo físicos para los alumnos que asisten presencialmente, independientemente de que el servicio se ofrezca con herramientas de virtualización"/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

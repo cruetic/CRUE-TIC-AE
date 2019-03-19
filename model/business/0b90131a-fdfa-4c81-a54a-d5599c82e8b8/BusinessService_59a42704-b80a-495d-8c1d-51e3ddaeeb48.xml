@@ -1,4 +1,17 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_03_03&#x9;Gestión Académica. Acceso a Postgrado"
-    id="59a42704-b80a-495d-8c1d-51e3ddaeeb48"/>
+    id="59a42704-b80a-495d-8c1d-51e3ddaeeb48">
+  <properties
+      key="Código CRUE"
+      value="CRUE_03_03"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Gestión Académica. Acceso a Postgrado"/>
+  <properties
+      key="Descripción Servicio"
+      value="Aplicaciones para la gestión del acceso a los cursos de postgrado y máster universitario."/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

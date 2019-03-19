@@ -1,4 +1,16 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_00_05&#x9;Gestión de red inalámbrica"
-    id="56588003-27bb-49d0-a41c-90391ccbe1de"/>
+    id="56588003-27bb-49d0-a41c-90391ccbe1de">
+  <properties
+      key="Código CRUE"
+      value="CRUE_00_05"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Gestión de red inalámbrica"/>
+  <properties
+      key="Descripción Servicio"/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

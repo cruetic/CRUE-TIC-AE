@@ -1,4 +1,17 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_01_062 Antiplagio"
-    id="d5bb67c8-254f-40cd-b56c-5f5b77d3c20f"/>
+    id="d5bb67c8-254f-40cd-b56c-5f5b77d3c20f">
+  <properties
+      key="Código CRUE"
+      value="CRUE_01_062"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Antiplagio"/>
+  <properties
+      key="Descripción Servicio"
+      value="Implantación y gestión de plataforma antiplagio. Aunque el antiplagio también se usa para ayuda a la investigación se incluye en este grupo por considerarse de mayor impacto en la docencia"/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

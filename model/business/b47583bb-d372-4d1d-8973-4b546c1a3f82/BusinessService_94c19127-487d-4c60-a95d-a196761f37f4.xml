@@ -1,4 +1,17 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_00_13&#x9;Firma electrónica"
-    id="94c19127-487d-4c60-a95d-a196761f37f4"/>
+    id="94c19127-487d-4c60-a95d-a196761f37f4">
+  <properties
+      key="Código CRUE"
+      value="CRUE_00_13"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Firma electrónica"/>
+  <properties
+      key="Descripción Servicio"
+      value="Sistemas de firma electrónica basados en certificados reconocidos y distribuidos entre la comunidad universitaria."/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

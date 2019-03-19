@@ -1,4 +1,16 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_00_11&#x9;Gestión de activos TI"
-    id="0f9196cb-3868-4e80-a888-585e7b8b95fb"/>
+    id="0f9196cb-3868-4e80-a888-585e7b8b95fb">
+  <properties
+      key="Código CRUE"
+      value="CRUE_00_11"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Gestión de activos TI"/>
+  <properties
+      key="Descripción Servicio"/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

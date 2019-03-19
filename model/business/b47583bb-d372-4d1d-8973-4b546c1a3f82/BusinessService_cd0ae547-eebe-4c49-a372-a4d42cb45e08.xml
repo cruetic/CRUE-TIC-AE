@@ -1,4 +1,17 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_00_15&#x9;Sellado de tiempo"
-    id="cd0ae547-eebe-4c49-a372-a4d42cb45e08"/>
+    id="cd0ae547-eebe-4c49-a372-a4d42cb45e08">
+  <properties
+      key="Código CRUE"
+      value="CRUE_00_15"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Sellado de tiempo"/>
+  <properties
+      key="Descripción Servicio"
+      value="Sellos de tiempo emitidos por una TSA para garantizar el fechado electrónico de los documentos."/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

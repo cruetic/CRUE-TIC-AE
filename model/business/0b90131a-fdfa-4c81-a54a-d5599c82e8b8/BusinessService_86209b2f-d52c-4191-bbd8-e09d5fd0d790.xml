@@ -1,4 +1,17 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_03_05&#x9;Gestión Académica. Automatrícula"
-    id="86209b2f-d52c-4191-bbd8-e09d5fd0d790"/>
+    id="86209b2f-d52c-4191-bbd8-e09d5fd0d790">
+  <properties
+      key="Código CRUE"
+      value="CRUE_03_05"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Gestión Académica. Automatrícula"/>
+  <properties
+      key="Descripción Servicio"
+      value="Aplicaciones para la realización la matrícula universitaria vía telemática."/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

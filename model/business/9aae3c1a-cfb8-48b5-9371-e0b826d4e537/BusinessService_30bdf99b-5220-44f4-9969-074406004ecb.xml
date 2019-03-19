@@ -1,4 +1,17 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_02_04&#x9;Asesoramiento adquisición infraestructuras y servicios TIC para investigación"
-    id="30bdf99b-5220-44f4-9969-074406004ecb"/>
+    id="30bdf99b-5220-44f4-9969-074406004ecb">
+  <properties
+      key="Código CRUE"
+      value="CRUE_02_04"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Asesoramiento adquisición infraestrucutra y servicios TIC para la investigación"/>
+  <properties
+      key="Descripción Servicio"
+      value="Consultoría técnica para la implementación de servicios TIC orientados a la investigación."/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

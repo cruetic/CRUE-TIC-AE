@@ -1,4 +1,17 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_01_061 Registro de asistencia"
-    id="3bd415e7-39ff-478c-8300-7fb25b75c961"/>
+    id="3bd415e7-39ff-478c-8300-7fb25b75c961">
+  <properties
+      key="Código CRUE"
+      value="CRUE_01_061"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Registro de asistencia"/>
+  <properties
+      key="Descripción Servicio"
+      value="Implantación, gestión y soporte de soluciones para el control de asistencia a clases del alumnado"/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

@@ -1,4 +1,17 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_02_02&#x9;Alojamiento de Infraestructuras"
-    id="d2c00c1d-1e5e-4a45-a22d-761add0db6f6"/>
+    id="d2c00c1d-1e5e-4a45-a22d-761add0db6f6">
+  <properties
+      key="Código CRUE"
+      value="CRUE_02_02"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Alojamiento de Infraestructuras"/>
+  <properties
+      key="Descripción Servicio"
+      value="Alojamiento y conectividad en el CPD para el despliegue de aplicaciones y servicios de investigación."/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

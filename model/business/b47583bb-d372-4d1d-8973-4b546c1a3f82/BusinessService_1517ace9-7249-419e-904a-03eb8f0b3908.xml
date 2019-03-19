@@ -1,4 +1,17 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_00_04&#x9;Gestión de red cableada"
-    id="1517ace9-7249-419e-904a-03eb8f0b3908"/>
+    id="1517ace9-7249-419e-904a-03eb8f0b3908">
+  <properties
+      key="Código CRUE"
+      value="CRUE_00_04"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Gestión de red cableada"/>
+  <properties
+      key="Descripción Servicio"
+      value="Diseño de la red, gestión de direccionamiento IP, gestión de DNS."/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

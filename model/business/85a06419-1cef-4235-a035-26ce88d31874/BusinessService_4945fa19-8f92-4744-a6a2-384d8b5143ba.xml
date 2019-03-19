@@ -1,4 +1,17 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_01_05&#x9;Soporte a la elaboración de contenidos docentes"
-    id="4945fa19-8f92-4744-a6a2-384d8b5143ba"/>
+    id="4945fa19-8f92-4744-a6a2-384d8b5143ba">
+  <properties
+      key="Código CRUE"
+      value="CRUE_01_05"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Soporte a la elaboración de contenidos docentes"/>
+  <properties
+      key="Descripción Servicio"
+      value="Asesoramiento en el uso de herramientas para la generación de contenidos docentes. Incluye la edición y producción de videos. Excluye el alojamiento de objetos multimedia, que se recoge en el grupo 5"/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

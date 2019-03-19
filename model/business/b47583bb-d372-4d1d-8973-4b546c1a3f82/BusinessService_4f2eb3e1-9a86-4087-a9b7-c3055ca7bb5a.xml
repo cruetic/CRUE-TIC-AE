@@ -1,4 +1,17 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_00_20&#x9;Pasarela de pago"
-    id="4f2eb3e1-9a86-4087-a9b7-c3055ca7bb5a"/>
+    id="4f2eb3e1-9a86-4087-a9b7-c3055ca7bb5a">
+  <properties
+      key="Código CRUE"
+      value="CRUE_00_20"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Pasarela de pago"/>
+  <properties
+      key="Descripción Servicio"
+      value="Pasarela de pago web para los trámites que así lo requieren"/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

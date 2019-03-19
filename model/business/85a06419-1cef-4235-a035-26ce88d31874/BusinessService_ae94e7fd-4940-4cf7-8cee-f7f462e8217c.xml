@@ -1,4 +1,17 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_01_04&#x9;Soporte a Aulas multimedia"
-    id="ae94e7fd-4940-4cf7-8cee-f7f462e8217c"/>
+    id="ae94e7fd-4940-4cf7-8cee-f7f462e8217c">
+  <properties
+      key="Código CRUE"
+      value="CRUE_01_04"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Soporte a Aulas multimedia"/>
+  <properties
+      key="Descripción Servicio"
+      value="Instalación y configuración de equipos y software, en aulas con equipamiento audiovisual y no solo ordenadores."/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

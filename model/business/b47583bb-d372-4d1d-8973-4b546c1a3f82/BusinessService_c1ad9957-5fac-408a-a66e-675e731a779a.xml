@@ -1,4 +1,17 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_00_03&#x9;Sistema antivirus y antispam en servidores"
-    id="c1ad9957-5fac-408a-a66e-675e731a779a"/>
+    id="c1ad9957-5fac-408a-a66e-675e731a779a">
+  <properties
+      key="Código CRUE"
+      value="CRUE_00_03"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Sistema antivirus y antispam en servidores"/>
+  <properties
+      key="Descripción Servicio"
+      value="Es distinto al servicio de antivirus del puesto de trabajo"/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

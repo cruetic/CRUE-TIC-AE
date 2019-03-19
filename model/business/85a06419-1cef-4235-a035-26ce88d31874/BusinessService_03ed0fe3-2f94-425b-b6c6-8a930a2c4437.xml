@@ -1,4 +1,17 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_01_06&#x9;Soporte a realización y corrección de exámenes"
-    id="03ed0fe3-2f94-425b-b6c6-8a930a2c4437"/>
+    id="03ed0fe3-2f94-425b-b6c6-8a930a2c4437">
+  <properties
+      key="Código CRUE"
+      value="CRUE_01_06"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Soporte a realización y correción de exámenes"/>
+  <properties
+      key="Descripción Servicio"
+      value="Soporte a la automatización de la generación y/o correción de exámenes."/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

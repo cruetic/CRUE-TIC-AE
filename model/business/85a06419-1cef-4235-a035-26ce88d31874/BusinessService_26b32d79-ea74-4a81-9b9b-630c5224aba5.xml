@@ -1,4 +1,17 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_01_031 Soporte a aulas virtuales de uso docente "
-    id="26b32d79-ea74-4a81-9b9b-630c5224aba5"/>
+    id="26b32d79-ea74-4a81-9b9b-630c5224aba5">
+  <properties
+      key="Código CRUE"
+      value="CRUE_01_031"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Soporte a aulas virtuales de uso docente"/>
+  <properties
+      key="Descripción Servicio"
+      value="Instalación y gestión de aulas virtuales accesibles para el alumnado de manera remota. Se trata de aulas virtuales para las que no existe ni aula ni puestos de trabajo físicos, accediendo el alumno en remoto con su puesto de trabajo"/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

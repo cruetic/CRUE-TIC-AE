@@ -1,4 +1,17 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_00_17&#x9;Comunicación electrónica"
-    id="000819ba-ab54-4ba4-8dbe-9d9d7f699cac"/>
+    id="000819ba-ab54-4ba4-8dbe-9d9d7f699cac">
+  <properties
+      key="Código CRUE"
+      value="CRUE_00_17"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Comunicación electrónica"/>
+  <properties
+      key="Descripción Servicio"
+      value="Sistemas de comunicación electrónica que garanticen la integridad del mensaje y la identidad del remitente y el destinatario."/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

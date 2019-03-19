@@ -1,4 +1,17 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_00_19&#x9;Gestor de trámites"
-    id="c6a6ebe6-52ba-400a-8a95-cfcc65d147d4"/>
+    id="c6a6ebe6-52ba-400a-8a95-cfcc65d147d4">
+  <properties
+      key="Código CRUE"
+      value="CRUE_00_19"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Gestor de trámites"/>
+  <properties
+      key="Descripción Servicio"
+      value="Solución para la gestión de trámites y expedientes electrónicos."/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

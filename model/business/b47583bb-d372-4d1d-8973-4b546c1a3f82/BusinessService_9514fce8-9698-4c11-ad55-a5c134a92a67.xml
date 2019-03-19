@@ -1,4 +1,16 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_00_08&#x9;Gestión ancho de banda"
-    id="9514fce8-9698-4c11-ad55-a5c134a92a67"/>
+    id="9514fce8-9698-4c11-ad55-a5c134a92a67">
+  <properties
+      key="Código CRUE"
+      value="CRUE_00_08"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Gestión ancho de banda"/>
+  <properties
+      key="Descripción Servicio"/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

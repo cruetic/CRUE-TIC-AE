@@ -1,4 +1,17 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_02_03&#x9;Gestión de Licencias software para investigación"
-    id="75dac5f2-fdea-4eb2-80c2-f66e4191c0b8"/>
+    id="75dac5f2-fdea-4eb2-80c2-f66e4191c0b8">
+  <properties
+      key="Código CRUE"
+      value="CRUE_02_03"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Gestión de Licencias software para investigación"/>
+  <properties
+      key="Descripción Servicio"
+      value="Adquisición, gestión y validación centralizada de licencias de aplicaciones orientadas hacia la investigación."/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

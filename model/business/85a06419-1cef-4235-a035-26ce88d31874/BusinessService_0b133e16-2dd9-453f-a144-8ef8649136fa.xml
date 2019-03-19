@@ -1,4 +1,17 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_01_02&#x9;Soporte a aulas de informática de libre acceso "
-    id="0b133e16-2dd9-453f-a144-8ef8649136fa"/>
+    id="0b133e16-2dd9-453f-a144-8ef8649136fa">
+  <properties
+      key="Código CRUE"
+      value="CRUE_01_02"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Soporte a aulas de informática de libre acceso"/>
+  <properties
+      key="Descripción Servicio"
+      value="Instalación y configuración de equipos y software en aulas y ubicaciones de acceso libre. Siempre que se trate de puestos físicos, pues los virtuales están recogidos en aulas virtuales"/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

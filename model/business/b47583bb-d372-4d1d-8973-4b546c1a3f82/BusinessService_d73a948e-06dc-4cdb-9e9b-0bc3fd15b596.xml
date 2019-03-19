@@ -1,4 +1,17 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_00_06&#x9;Backup centralizado de servidores"
-    id="d73a948e-06dc-4cdb-9e9b-0bc3fd15b596"/>
+    id="d73a948e-06dc-4cdb-9e9b-0bc3fd15b596">
+  <properties
+      key="Código CRUE"
+      value="CRUE_00_06"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Backup centralizado de servidores"/>
+  <properties
+      key="Descripción Servicio"
+      value="Sistemas para la centralización de copias de seguridad de servidores"/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

@@ -1,4 +1,17 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_01_07&#x9;Gestión de licencias software para docencia"
-    id="7b75cd4f-6e2c-47b5-acaa-c0980fb74ff9"/>
+    id="7b75cd4f-6e2c-47b5-acaa-c0980fb74ff9">
+  <properties
+      key="Código CRUE"
+      value="CRUE_01_07"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Gestión de licencias software para docencia"/>
+  <properties
+      key="Descripción Servicio"
+      value="Adquisición, gestión y validación centralizada de licencias de software de uso docente."/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>
