@@ -1,4 +1,17 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_05_05&#x9;Intranet. Portal del empleado "
-    id="0a7e4674-2cbf-4ee2-bbb0-e39255286923"/>
+    id="0a7e4674-2cbf-4ee2-bbb0-e39255286923">
+  <properties
+      key="Código CRUE"
+      value="CRUE_05_05"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Intranet. Portal del empleado"/>
+  <properties
+      key="Descripción Servicio"
+      value="Publicación de recursos y servicios dirigidos a los empleados de la universidad sobre un sitio web de acceso restringido a este colectivo."/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

@@ -1,4 +1,17 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_04_12&#x9;Videoconferencia. Sala"
-    id="f6713efe-b270-41ed-b20d-9bd120883217"/>
+    id="f6713efe-b270-41ed-b20d-9bd120883217">
+  <properties
+      key="Código CRUE"
+      value="CRUE_04_12"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Videoconferencia. Sala."/>
+  <properties
+      key="Descripción Servicio"
+      value="Diseño, administración y gestión de las comunicaciones audiovisuales basadas en sistemas de basadas en el uso de equipos de videoconferencia de sala y equipamiento MCU."/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

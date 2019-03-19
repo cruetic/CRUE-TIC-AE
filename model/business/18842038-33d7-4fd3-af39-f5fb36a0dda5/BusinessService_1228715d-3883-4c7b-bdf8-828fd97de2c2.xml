@@ -1,4 +1,17 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_05_11&#x9;Grabación y Difusión de eventos"
-    id="1228715d-3883-4c7b-bdf8-828fd97de2c2"/>
+    id="1228715d-3883-4c7b-bdf8-828fd97de2c2">
+  <properties
+      key="Código CRUE"
+      value="CRUE_05_11"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Grabación y Difusión de eventos."/>
+  <properties
+      key="Descripción Servicio"
+      value="Grabación audiovisual de eventos, incluyendo la posibilidad de difusión a través de internet. Sistemas de grabación y difusión en streaming,  usando hardware específico.  El servicio de alojamiento de estos contenidos está recogido en los servicios de Contenidos Digitales (CRUE_05_07, 09 y 10)"/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

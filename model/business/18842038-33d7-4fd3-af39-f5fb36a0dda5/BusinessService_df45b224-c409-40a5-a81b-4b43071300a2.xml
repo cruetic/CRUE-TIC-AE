@@ -1,4 +1,17 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_05_03&#x9;Intranet"
-    id="df45b224-c409-40a5-a81b-4b43071300a2"/>
+    id="df45b224-c409-40a5-a81b-4b43071300a2">
+  <properties
+      key="Código CRUE"
+      value="CRUE_05_03"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Intranet"/>
+  <properties
+      key="Descripción Servicio"
+      value="Publicación de información académica, de investigación y servicios universitarios en un sitio web de acceso restringido a la comunidad universitaria."/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

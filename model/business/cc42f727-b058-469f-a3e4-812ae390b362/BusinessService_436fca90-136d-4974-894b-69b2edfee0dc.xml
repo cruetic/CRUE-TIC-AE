@@ -1,4 +1,17 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_04_061 Red Social corporativa"
-    id="436fca90-136d-4974-894b-69b2edfee0dc"/>
+    id="436fca90-136d-4974-894b-69b2edfee0dc">
+  <properties
+      key="Código CRUE"
+      value="CRUE_04_061"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Red Social corporativa."/>
+  <properties
+      key="Descripción Servicio"
+      value="Plataforma que la universidad usa, implanta o desarrolla para la Red Social Corporativa"/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

@@ -1,4 +1,17 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_05_022 Tablón de anuncios"
-    id="b4a905ad-c6b5-4d1e-8e30-001da632bb51"/>
+    id="b4a905ad-c6b5-4d1e-8e30-001da632bb51">
+  <properties
+      key="Código CRUE"
+      value="CRUE_05_022"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Tablón de anuncios"/>
+  <properties
+      key="Descripción Servicio"
+      value="Según lo establecido en la Legislación vigente"/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

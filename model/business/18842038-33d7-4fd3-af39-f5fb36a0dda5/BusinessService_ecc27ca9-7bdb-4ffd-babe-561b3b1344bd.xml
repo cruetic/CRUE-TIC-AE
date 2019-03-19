@@ -1,4 +1,17 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_05_07&#x9;Contenidos Digitales. Material audiovisual"
-    id="ecc27ca9-7bdb-4ffd-babe-561b3b1344bd"/>
+    id="ecc27ca9-7bdb-4ffd-babe-561b3b1344bd">
+  <properties
+      key="Código CRUE"
+      value="CRUE_05_07"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Contenidos Digitales. Material audiovisual."/>
+  <properties
+      key="Descripción Servicio"
+      value="Soporte al almacenamiento y difusión de material audiovisual"/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

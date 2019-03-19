@@ -1,4 +1,17 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_04_05&#x9;Correo electrónico. Listas de Distribución"
-    id="45ea5176-d68f-427d-82fb-15c4470c3e7a"/>
+    id="45ea5176-d68f-427d-82fb-15c4470c3e7a">
+  <properties
+      key="Código CRUE"
+      value="CRUE_04_05"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Correo electrónico. Listas de Distribución."/>
+  <properties
+      key="Descripción Servicio"
+      value="Diseño, administración y gestión de las comunicaciones basadas en listas de correo electrónico, en diferentes modalidades como moderada y no moderada"/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

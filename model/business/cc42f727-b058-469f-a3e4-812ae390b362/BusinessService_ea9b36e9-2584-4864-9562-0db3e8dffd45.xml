@@ -1,4 +1,17 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_04_09&#x9;Intercambio de ficheros. FTP"
-    id="ea9b36e9-2584-4864-9562-0db3e8dffd45"/>
+    id="ea9b36e9-2584-4864-9562-0db3e8dffd45">
+  <properties
+      key="Código CRUE"
+      value="CRUE_04_09"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Intercambio de ficheros. FTP"/>
+  <properties
+      key="Descripción Servicio"
+      value="Diseño, administración y gestión de las comunicaciones basadas en el intercambio de ficheros a través del protocolo de transferencia FTP"/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

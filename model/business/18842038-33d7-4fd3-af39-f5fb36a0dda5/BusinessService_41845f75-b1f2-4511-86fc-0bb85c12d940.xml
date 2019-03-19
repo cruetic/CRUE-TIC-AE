@@ -1,4 +1,17 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_05_02&#x9;Sede electrónica"
-    id="41845f75-b1f2-4511-86fc-0bb85c12d940"/>
+    id="41845f75-b1f2-4511-86fc-0bb85c12d940">
+  <properties
+      key="Código CRUE"
+      value="CRUE_05_02"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Sede electrónica"/>
+  <properties
+      key="Descripción Servicio"
+      value="Publicación de información en la Sede electrónica según lo establecido en la Legislación vigente"/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

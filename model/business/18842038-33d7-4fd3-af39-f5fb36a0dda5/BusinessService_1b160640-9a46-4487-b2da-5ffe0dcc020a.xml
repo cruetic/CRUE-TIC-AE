@@ -1,4 +1,17 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_05_021 Carpeta ciudadana"
-    id="1b160640-9a46-4487-b2da-5ffe0dcc020a"/>
+    id="1b160640-9a46-4487-b2da-5ffe0dcc020a">
+  <properties
+      key="Código CRUE"
+      value="CRUE_05_021"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Carpeta ciudadana"/>
+  <properties
+      key="Descripción Servicio"
+      value="Según lo establecido en la Legislación vigente"/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

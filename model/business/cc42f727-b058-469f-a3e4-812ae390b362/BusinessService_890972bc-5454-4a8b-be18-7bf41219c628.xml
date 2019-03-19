@@ -1,4 +1,17 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_04_03&#x9;Correo electrónico. Preuniversitarios"
-    id="890972bc-5454-4a8b-be18-7bf41219c628"/>
+    id="890972bc-5454-4a8b-be18-7bf41219c628">
+  <properties
+      key="Código CRUE"
+      value="CRUE_04_03"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Correo electrónico. Preuniversitarios."/>
+  <properties
+      key="Descripción Servicio"
+      value="Diseño, administración y gestión de las comunicaciones basadas en correo electrónico, destinado a los estudiantes preuniversitarios del distrito correspondiente."/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

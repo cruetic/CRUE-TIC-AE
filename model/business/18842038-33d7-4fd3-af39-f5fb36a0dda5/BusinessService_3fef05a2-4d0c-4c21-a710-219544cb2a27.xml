@@ -1,4 +1,17 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_05_012 Web. Alojamiento"
-    id="3fef05a2-4d0c-4c21-a710-219544cb2a27"/>
+    id="3fef05a2-4d0c-4c21-a710-219544cb2a27">
+  <properties
+      key="Código CRUE"
+      value="CRUE_05_012"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Web. Alojamiento"/>
+  <properties
+      key="Descripción Servicio"
+      value="Servidores web alojados fuera del servidor Web institucional"/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

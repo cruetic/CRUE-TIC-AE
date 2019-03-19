@@ -1,4 +1,17 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_05_09&#x9;Contenidos Digitales. Contenidos Docentes"
-    id="76c230bf-1335-4c69-89c9-e9aa92bea2bd"/>
+    id="76c230bf-1335-4c69-89c9-e9aa92bea2bd">
+  <properties
+      key="Código CRUE"
+      value="CRUE_05_09"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Contenidos Digitales. Contenidos Docentes."/>
+  <properties
+      key="Descripción Servicio"
+      value="Soporte al almacenamiento y difusión de contenidos docentes en formato digital"/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

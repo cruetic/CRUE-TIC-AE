@@ -1,4 +1,17 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_05_06&#x9;Intranet. Portal del estudiante o Secretaria Virtual "
-    id="da58ccb0-d9dd-4d55-9211-ac9253b10521"/>
+    id="da58ccb0-d9dd-4d55-9211-ac9253b10521">
+  <properties
+      key="Código CRUE"
+      value="CRUE_05_06"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Intranet. Portal del estudiante o Secretaría Virtual."/>
+  <properties
+      key="Descripción Servicio"
+      value="Publicación de recursos y servicios dirigidos a los estudiantes de la universidad sobre un sitio web de acceso restringido a este colectivo."/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

@@ -1,4 +1,17 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_04_04&#x9;Correo electrónico. Egresados"
-    id="af6110ce-670c-4731-b6d1-8572d3ff9c0f"/>
+    id="af6110ce-670c-4731-b6d1-8572d3ff9c0f">
+  <properties
+      key="Código CRUE"
+      value="CRUE_04_04"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Correo electrónico. Egresados."/>
+  <properties
+      key="Descripción Servicio"
+      value="Diseño, administración y gestión de las comunicaciones basadas en correo electrónico, destinado a los estudiantes egresados."/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

@@ -1,4 +1,17 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_04_08&#x9;Plataformas de trabajo colaborativo"
-    id="0632c25a-75ec-4b04-8c40-5ae94bfdc0bd"/>
+    id="0632c25a-75ec-4b04-8c40-5ae94bfdc0bd">
+  <properties
+      key="Código CRUE"
+      value="CRUE_04_08"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Plataformas de trabajo colaborativo"/>
+  <properties
+      key="Descripción Servicio"
+      value="Diseño, administración y gestión de las comunicaciones basadas en espacios compartidos con capacidad de colaboración en documentos electrónicos: SharePoint, Grupos Office 365, Google Groups, agenda, calendarios, carpetas compartidas"/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

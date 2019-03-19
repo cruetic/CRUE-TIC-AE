@@ -1,4 +1,17 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_04_13&#x9;Videoconferencia. Inmersión"
-    id="477309d3-aea1-479c-8a8c-aee52fbab794"/>
+    id="477309d3-aea1-479c-8a8c-aee52fbab794">
+  <properties
+      key="Código CRUE"
+      value="CRUE_04_13"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Videoconferencia. Inmersión"/>
+  <properties
+      key="Descripción Servicio"
+      value="Diseño, administración y gestión de las comunicaciones audiovisuales basadas en sistemas de basadas en el uso de salas especialmente equipadas para integrar presencia y contenidos."/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

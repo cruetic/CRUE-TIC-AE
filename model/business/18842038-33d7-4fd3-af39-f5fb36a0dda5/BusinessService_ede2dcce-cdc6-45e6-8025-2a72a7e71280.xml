@@ -1,4 +1,17 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_05_011 Web. Espacio personal"
-    id="ede2dcce-cdc6-45e6-8025-2a72a7e71280"/>
+    id="ede2dcce-cdc6-45e6-8025-2a72a7e71280">
+  <properties
+      key="Código CRUE"
+      value="CRUE_05_011"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Web. Espacio personal"/>
+  <properties
+      key="Descripción Servicio"
+      value="Hospedaje de información académica, de investigación y gestión en espacios personales de los miembros de la comunidad"/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

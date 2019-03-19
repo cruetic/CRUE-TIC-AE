@@ -1,4 +1,17 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_04_06&#x9;Comunicados por SMS y Redes Sociales"
-    id="d54727ea-0bbe-4ebb-9345-20330479c9b3"/>
+    id="d54727ea-0bbe-4ebb-9345-20330479c9b3">
+  <properties
+      key="Código CRUE"
+      value="CRUE_04_06"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Comunicados por SMS y Redes Sociales."/>
+  <properties
+      key="Descripción Servicio"
+      value="Diseño, administración y gestión de las comunicaciones basadas en el uso de plataformas de envío de mensajes cortos (SMS y Redes Sociales)"/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>
