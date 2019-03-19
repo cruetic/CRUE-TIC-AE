@@ -1,4 +1,17 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_03_53&#x9;Biblioteca Universitaria "
-    id="1054d10e-57c9-48a2-907b-1565753de324"/>
+    id="1054d10e-57c9-48a2-907b-1565753de324">
+  <properties
+      key="Código CRUE"
+      value="CRUE_03_53"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Biblioteca Universitaria"/>
+  <properties
+      key="Descripción Servicio"
+      value="Aplicaciones para la gestión de los procesos soportados por la Biblioteca universitaria."/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

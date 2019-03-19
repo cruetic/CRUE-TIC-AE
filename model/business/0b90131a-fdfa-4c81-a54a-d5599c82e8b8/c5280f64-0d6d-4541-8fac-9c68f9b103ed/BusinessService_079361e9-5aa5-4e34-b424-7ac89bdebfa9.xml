@@ -1,4 +1,17 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_03_58&#x9;Gestión Calidad. "
-    id="079361e9-5aa5-4e34-b424-7ac89bdebfa9"/>
+    id="079361e9-5aa5-4e34-b424-7ac89bdebfa9">
+  <properties
+      key="Código CRUE"
+      value="CRUE_03_58"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Gestión de Calidad."/>
+  <properties
+      key="Descripción Servicio"
+      value="Aplicaciones para la gestión de la calidad en la Universidad."/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

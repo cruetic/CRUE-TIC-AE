@@ -1,4 +1,17 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_03_48&#x9;Gestión Infraestructuras."
-    id="403d34f9-dd0e-440a-ae4f-733f25826fc6"/>
+    id="403d34f9-dd0e-440a-ae4f-733f25826fc6">
+  <properties
+      key="Código CRUE"
+      value="CRUE_03_48"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Gestión Infraestructuras."/>
+  <properties
+      key="Descripción Servicio"
+      value="Aplicaciones para la gestión de las infraestructuras universitarias."/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

@@ -1,4 +1,17 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_03_65&#x9;Defensor universitario"
-    id="20732965-b45c-4aab-b8be-9388b344ee05"/>
+    id="20732965-b45c-4aab-b8be-9388b344ee05">
+  <properties
+      key="Código CRUE"
+      value="CRUE_03_65"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Defensor universitario"/>
+  <properties
+      key="Descripción Servicio"
+      value="Aplicaciones para la gestión de los procesos propios del defensor universitario o síndico de agravios"/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

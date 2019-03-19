@@ -1,4 +1,17 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_03_55&#x9;Comunicación. Cartelería Digital"
-    id="35d2dae0-2bce-45da-8112-3f6509701c9f"/>
+    id="35d2dae0-2bce-45da-8112-3f6509701c9f">
+  <properties
+      key="Código CRUE"
+      value="CRUE_03_55"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Comunicación. Cartelería Digital"/>
+  <properties
+      key="Descripción Servicio"
+      value="Aplicaciones para la gestión de la cartelería digital universitaria, incluyendo la televisión universitaria."/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

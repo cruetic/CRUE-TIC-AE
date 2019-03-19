@@ -1,4 +1,17 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_03_56&#x9;Comunicación. Eventos"
-    id="c8fbc7c6-2d90-42e7-8c13-72829e74ce62"/>
+    id="c8fbc7c6-2d90-42e7-8c13-72829e74ce62">
+  <properties
+      key="Código CRUE"
+      value="CRUE_03_56"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Comunicación. Eventos"/>
+  <properties
+      key="Descripción Servicio"
+      value="Aplicaciones para la gestión de eventos, incluyendo congresos y otras actividades universitarias."/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

@@ -1,4 +1,17 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_03_51&#x9;Gestión Infraestructuras. Prevención de Riesgos Laborales."
-    id="8e87ea8b-6627-469f-9a4b-d01b280ac130"/>
+    id="8e87ea8b-6627-469f-9a4b-d01b280ac130">
+  <properties
+      key="Código CRUE"
+      value="CRUE_03_51"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Gestión Infraestructuras. Prevención de Riesgos Laborales"/>
+  <properties
+      key="Descripción Servicio"
+      value="Aplicaciones para la gestión de los procesos de evaluación de riesgos laborales en infraestructuras. Quedan excluidos los procesos de gestión de salud laboral, que están recogidos en los servicios de gestión de recursos humanos"/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

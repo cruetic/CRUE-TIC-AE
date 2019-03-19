@@ -1,4 +1,17 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_03_54&#x9;Biblioteca Universitaria. Repositorio institucional"
-    id="ec0207a5-6915-47fc-a3ab-32308189f76c"/>
+    id="ec0207a5-6915-47fc-a3ab-32308189f76c">
+  <properties
+      key="Código CRUE"
+      value="CRUE_03_54"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Biblioteca Universitaria. Repositorio institucional"/>
+  <properties
+      key="Descripción Servicio"
+      value="Aplicaciones para la gestión del repositorio digital institucional de la Universidad. universitaria. "/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

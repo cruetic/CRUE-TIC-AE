@@ -1,4 +1,17 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_03_45&#x9;Secretaría General. Convenios y Acuerdos"
-    id="19e5bd60-db7b-4e16-b9c3-3aec74582288"/>
+    id="19e5bd60-db7b-4e16-b9c3-3aec74582288">
+  <properties
+      key="Código CRUE"
+      value="CRUE_03_45"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Secretaría General. Convenios y Acuerdos."/>
+  <properties
+      key="Descripción Servicio"
+      value="Aplicaciones para la gestión de los convenios y acuerdos firmados por la universidad"/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

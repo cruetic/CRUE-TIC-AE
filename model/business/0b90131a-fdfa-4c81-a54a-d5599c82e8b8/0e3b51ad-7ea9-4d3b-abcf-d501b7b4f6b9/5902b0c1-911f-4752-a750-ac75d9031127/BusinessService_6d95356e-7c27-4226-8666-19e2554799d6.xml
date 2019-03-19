@@ -1,4 +1,17 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_03_471 Secretaría General. Registro de tratamiento de actividades de protección de datos"
-    id="6d95356e-7c27-4226-8666-19e2554799d6"/>
+    id="6d95356e-7c27-4226-8666-19e2554799d6">
+  <properties
+      key="Código CRUE"
+      value="CRUE_03_471"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Secretaría General. Registro de tratamiento de actividades de protección de datos."/>
+  <properties
+      key="Descripción Servicio"
+      value="Aplicaciones para la gestión de registros de tratamiento de actividades de protección de datos"/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

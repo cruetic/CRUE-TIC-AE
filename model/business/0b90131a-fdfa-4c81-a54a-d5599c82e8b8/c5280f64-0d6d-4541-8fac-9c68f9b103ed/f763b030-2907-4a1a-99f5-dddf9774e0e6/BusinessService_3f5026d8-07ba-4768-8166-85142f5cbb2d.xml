@@ -1,4 +1,17 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_03_611 Gestión Calidad. Felicitaciones, quejas y sugerencias"
-    id="3f5026d8-07ba-4768-8166-85142f5cbb2d"/>
+    id="3f5026d8-07ba-4768-8166-85142f5cbb2d">
+  <properties
+      key="Código CRUE"
+      value="CRUE_03_611"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Gestión Calidad. Felicitaciones, quejas ysugerencias"/>
+  <properties
+      key="Descripción Servicio"
+      value="Aplicaciones para la gestión de felicitaciones, quejas y sugerencias"/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

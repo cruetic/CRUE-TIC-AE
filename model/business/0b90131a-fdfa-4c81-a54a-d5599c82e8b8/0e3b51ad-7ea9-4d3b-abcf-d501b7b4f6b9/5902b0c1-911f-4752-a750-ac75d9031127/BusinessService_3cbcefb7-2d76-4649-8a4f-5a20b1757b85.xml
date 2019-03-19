@@ -1,4 +1,17 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_03_473 Secretaria General. Gestión de Boletín oficial."
-    id="3cbcefb7-2d76-4649-8a4f-5a20b1757b85"/>
+    id="3cbcefb7-2d76-4649-8a4f-5a20b1757b85">
+  <properties
+      key="Código CRUE"
+      value="CRUE_03_473"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Secretaría General. Gestión de Boletín oficial."/>
+  <properties
+      key="Descripción Servicio"
+      value="Aplicación para la gestión del Boletín Oficial de la Universidad. Se excluye la publicación web, que formaría parte de los servicios de publicación web"/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

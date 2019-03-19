@@ -1,4 +1,17 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_03_52&#x9;Gestión Infraestructuras. Gestión de espacios"
-    id="390c18da-4f98-48dc-9e3f-61be43efcecc"/>
+    id="390c18da-4f98-48dc-9e3f-61be43efcecc">
+  <properties
+      key="Código CRUE"
+      value="CRUE_03_52"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Gestión Infraestructuras. Gestión de espacios "/>
+  <properties
+      key="Descripción Servicio"
+      value="Aplicaciones para la gestión de  los espacios universitarios, incluyendo procesos de reserva de los mismos."/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

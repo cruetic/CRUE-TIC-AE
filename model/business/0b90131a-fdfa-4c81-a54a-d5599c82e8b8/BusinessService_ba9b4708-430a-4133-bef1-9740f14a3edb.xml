@@ -1,4 +1,17 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_03_64&#x9;Gestión de Publicaciones"
-    id="ba9b4708-430a-4133-bef1-9740f14a3edb"/>
+    id="ba9b4708-430a-4133-bef1-9740f14a3edb">
+  <properties
+      key="Código CRUE"
+      value="CRUE_03_64"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Gestión de Publicaciones"/>
+  <properties
+      key="Descripción Servicio"
+      value="Aplicaciones para la gestión de los procesos de publicaciones de la universidad"/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

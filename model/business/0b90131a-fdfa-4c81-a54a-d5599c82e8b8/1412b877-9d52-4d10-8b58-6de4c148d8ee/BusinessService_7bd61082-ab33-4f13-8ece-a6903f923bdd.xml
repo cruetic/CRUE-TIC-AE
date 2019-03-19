@@ -1,4 +1,17 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_03_49&#x9;Gestión Infraestructuras. Control de acceso"
-    id="7bd61082-ab33-4f13-8ece-a6903f923bdd"/>
+    id="7bd61082-ab33-4f13-8ece-a6903f923bdd">
+  <properties
+      key="Código CRUE"
+      value="CRUE_03_49"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Gestión Infraestructuras. Control de acceso"/>
+  <properties
+      key="Descripción Servicio"
+      value="Aplicaciones para la gestión de  las plataformas que controlan el acceso a los edificios y aparcamientos de la Universidad."/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

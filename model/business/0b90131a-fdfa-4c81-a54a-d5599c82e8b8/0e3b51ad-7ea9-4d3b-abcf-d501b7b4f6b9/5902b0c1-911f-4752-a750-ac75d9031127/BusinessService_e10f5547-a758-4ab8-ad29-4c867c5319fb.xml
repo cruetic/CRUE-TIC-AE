@@ -1,4 +1,17 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_03_472 Secretaría General. Portafirmas"
-    id="e10f5547-a758-4ab8-ad29-4c867c5319fb"/>
+    id="e10f5547-a758-4ab8-ad29-4c867c5319fb">
+  <properties
+      key="Código CRUE"
+      value="CRUE_03_472"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Secretaría General. Portafirmas."/>
+  <properties
+      key="Descripción Servicio"
+      value="Portafirmas ofrecido directamente al usuario. En el caso de no ofrecerse directamente, sino como una etapa de un trámite, el servicio queda recogido en el gestor de trámites, en el grupo de servicios de soporte"/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

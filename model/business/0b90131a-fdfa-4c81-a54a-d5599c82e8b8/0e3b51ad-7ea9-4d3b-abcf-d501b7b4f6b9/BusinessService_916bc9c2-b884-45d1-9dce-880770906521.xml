@@ -1,4 +1,17 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_03_43&#x9;Secretaría General. Registro "
-    id="916bc9c2-b884-45d1-9dce-880770906521"/>
+    id="916bc9c2-b884-45d1-9dce-880770906521">
+  <properties
+      key="Código CRUE"
+      value="CRUE_03_43"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Secretaría General. Registro"/>
+  <properties
+      key="Descripción Servicio"
+      value="Aplicaciones para la gestión del  Registro universitario, incluyendo procesos de entrada/salida, en modalidad presencial y telemática"/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

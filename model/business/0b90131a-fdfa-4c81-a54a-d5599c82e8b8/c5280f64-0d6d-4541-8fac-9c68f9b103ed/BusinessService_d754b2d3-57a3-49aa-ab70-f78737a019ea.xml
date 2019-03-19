@@ -1,4 +1,17 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_03_59&#x9;Gestión Calidad. Encuestas"
-    id="d754b2d3-57a3-49aa-ab70-f78737a019ea"/>
+    id="d754b2d3-57a3-49aa-ab70-f78737a019ea">
+  <properties
+      key="Código CRUE"
+      value="CRUE_03_59"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Gestión de Calidad. Encuestas"/>
+  <properties
+      key="Descripción Servicio"
+      value="Aplicaciones para la gestión de procesos de generación, difusión y evaluación de encuestas destinadas a la comunidad universitaria"/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

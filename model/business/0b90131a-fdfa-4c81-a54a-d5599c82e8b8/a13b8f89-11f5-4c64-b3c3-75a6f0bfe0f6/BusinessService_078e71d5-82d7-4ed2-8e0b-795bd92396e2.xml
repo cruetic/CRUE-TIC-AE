@@ -1,4 +1,17 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_03_57&#x9;Comunicación. Prensa universitaria"
-    id="078e71d5-82d7-4ed2-8e0b-795bd92396e2"/>
+    id="078e71d5-82d7-4ed2-8e0b-795bd92396e2">
+  <properties
+      key="Código CRUE"
+      value="CRUE_03_57"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Comunicación. Prensa universitaria"/>
+  <properties
+      key="Descripción Servicio"
+      value="Aplicaciones para la gestión de los diferentes medios soporte de la prensa universitaria"/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

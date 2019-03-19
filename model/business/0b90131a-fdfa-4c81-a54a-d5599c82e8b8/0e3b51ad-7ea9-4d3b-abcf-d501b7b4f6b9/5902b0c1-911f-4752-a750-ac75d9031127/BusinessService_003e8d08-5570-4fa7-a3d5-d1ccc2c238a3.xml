@@ -1,4 +1,17 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_03_474 Secretaría General. Gestión de reuniones de órganos colegiados "
-    id="003e8d08-5570-4fa7-a3d5-d1ccc2c238a3"/>
+    id="003e8d08-5570-4fa7-a3d5-d1ccc2c238a3">
+  <properties
+      key="Código CRUE"
+      value="CRUE_03_474"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Secretaría General. Gestión de reuniones de órganos colegiados."/>
+  <properties
+      key="Descripción Servicio"
+      value="Aplicaciones para la convocatoria, gestión de reuniones, grabación, actado automático, etc. de reuniones de los órganos de gobierno"/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

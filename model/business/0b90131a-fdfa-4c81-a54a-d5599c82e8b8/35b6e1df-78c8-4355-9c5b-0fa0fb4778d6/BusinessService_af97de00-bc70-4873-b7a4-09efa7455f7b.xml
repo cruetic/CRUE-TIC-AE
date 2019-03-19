@@ -1,4 +1,17 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_03_631 Relación con el usuario. CRM"
-    id="af97de00-bc70-4873-b7a4-09efa7455f7b"/>
+    id="af97de00-bc70-4873-b7a4-09efa7455f7b">
+  <properties
+      key="Código CRUE"
+      value="CRUE_03_631"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Relación con el usuario"/>
+  <properties
+      key="Descripción Servicio"
+      value="Aplicaciones para la gestión de relaciones con el cliente del ámbito universitario. Ya sea con clientes reales de la universidad o potenciales"/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

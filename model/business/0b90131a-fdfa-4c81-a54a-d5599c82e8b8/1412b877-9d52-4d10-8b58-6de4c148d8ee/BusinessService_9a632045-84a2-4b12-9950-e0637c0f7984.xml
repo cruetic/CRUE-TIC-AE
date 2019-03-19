@@ -1,4 +1,17 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_03_50&#x9;Gestión Infraestructuras. Gestión de almacén"
-    id="9a632045-84a2-4b12-9950-e0637c0f7984"/>
+    id="9a632045-84a2-4b12-9950-e0637c0f7984">
+  <properties
+      key="Código CRUE"
+      value="CRUE_03_50"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Gestión Infraestructuras. Gestión de almacén."/>
+  <properties
+      key="Descripción Servicio"
+      value="Aplicaciones para la gestión de  almacenes universitarios, incluyendo gestión de pedidos, entradas y salidas de material."/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

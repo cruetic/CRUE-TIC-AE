@@ -1,4 +1,17 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_03_60&#x9;Gestión Calidad. Evaluación de la actividad docente del profesorado"
-    id="0652b91f-b938-4a75-8c72-895c5570ea8a"/>
+    id="0652b91f-b938-4a75-8c72-895c5570ea8a">
+  <properties
+      key="Código CRUE"
+      value="CRUE_03_60"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Gestión Calidad. Evaluación de la actividad docente del profesorado"/>
+  <properties
+      key="Descripción Servicio"
+      value="Aplicaciones para la gestión de la evaluación de la actividad docente del profesorado universitario."/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

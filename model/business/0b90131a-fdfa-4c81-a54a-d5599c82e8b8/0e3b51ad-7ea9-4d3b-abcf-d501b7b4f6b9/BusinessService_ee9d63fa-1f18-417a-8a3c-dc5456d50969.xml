@@ -1,4 +1,17 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_03_42&#x9;Secretaría General. Protocolo"
-    id="ee9d63fa-1f18-417a-8a3c-dc5456d50969"/>
+    id="ee9d63fa-1f18-417a-8a3c-dc5456d50969">
+  <properties
+      key="Código CRUE"
+      value="CRUE_03_42"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Secretaría General. Protocolo."/>
+  <properties
+      key="Descripción Servicio"
+      value="Aplicaciones para la gestión de los procesos de protocolo exigidos en los actos académicos."/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

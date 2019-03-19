@@ -1,4 +1,17 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_03_621 Gestión de la estrategia. Plan estratégico"
-    id="1ff12a07-c516-4b45-9c9d-8be157e7a1f2"/>
+    id="1ff12a07-c516-4b45-9c9d-8be157e7a1f2">
+  <properties
+      key="Código CRUE"
+      value="CRUE_03_621"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Gestión de la estrategia. Plan estratégico"/>
+  <properties
+      key="Descripción Servicio"
+      value="Aplicaciones para la gestión del plan estratégico, indicadores y cuadros de mando"/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

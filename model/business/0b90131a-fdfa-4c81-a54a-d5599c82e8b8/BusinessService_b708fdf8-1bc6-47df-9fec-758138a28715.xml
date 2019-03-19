@@ -1,4 +1,17 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_03_66&#x9;Gestión de proyectos"
-    id="b708fdf8-1bc6-47df-9fec-758138a28715"/>
+    id="b708fdf8-1bc6-47df-9fec-758138a28715">
+  <properties
+      key="Código CRUE"
+      value="CRUE_03_66"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Gestión de proyectos"/>
+  <properties
+      key="Descripción Servicio"
+      value="Aplicación para la gestión de proyectos. Ya sean proyectos TI o no"/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>
