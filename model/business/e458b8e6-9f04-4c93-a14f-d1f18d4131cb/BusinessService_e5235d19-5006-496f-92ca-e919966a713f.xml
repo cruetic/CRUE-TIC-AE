@@ -12,5 +12,6 @@
       key="Descripción Servicio"
       value="Diseño, administración y gestión de la infraestructura de clave pública (PKI) de la universidad  para la emisión de certificados digitales. Incluye certificados de servidor, de aplicaciones, personales"/>
   <properties
-      key="Tipo"/>
+      key="Tipo"
+      value="Servicio"/>
 </archimate:BusinessService>
