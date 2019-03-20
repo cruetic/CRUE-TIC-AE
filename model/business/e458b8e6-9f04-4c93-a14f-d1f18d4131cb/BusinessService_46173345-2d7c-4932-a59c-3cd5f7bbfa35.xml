@@ -9,6 +9,9 @@
       key="Nombre del Servicio"
       value="Directorio."/>
   <properties
+      key="Descripción Servicio"
+      value="Diseño, administración y gestión de la plataforma que almacena, organiza y publica información personal de los usuarios de la Universidad. Incluye el archivo fotográfico recogido con las diferentes aplicaciones."/>
+  <properties
       key="Tipo"
       value="Servicio"/>
 </archimate:BusinessService>

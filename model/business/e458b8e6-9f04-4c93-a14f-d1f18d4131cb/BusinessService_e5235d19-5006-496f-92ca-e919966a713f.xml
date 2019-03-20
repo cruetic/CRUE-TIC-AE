@@ -1,4 +1,16 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_08_05&#x9;Gestión de Certificados"
-    id="e5235d19-5006-496f-92ca-e919966a713f"/>
+    id="e5235d19-5006-496f-92ca-e919966a713f">
+  <properties
+      key="Código CRUE"
+      value="CRUE_08_05"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Gestión de Certificados"/>
+  <properties
+      key="Descripción Servicio"
+      value="Diseño, administración y gestión de la infraestructura de clave pública (PKI) de la universidad  para la emisión de certificados digitales. Incluye certificados de servidor, de aplicaciones, personales"/>
+  <properties
+      key="Tipo"/>
+</archimate:BusinessService>

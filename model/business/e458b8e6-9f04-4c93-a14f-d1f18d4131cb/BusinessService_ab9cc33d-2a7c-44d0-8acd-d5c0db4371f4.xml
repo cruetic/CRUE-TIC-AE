@@ -3,6 +3,9 @@
     name="CRUE_08_02&#x9;Gestión de credenciales"
     id="ab9cc33d-2a7c-44d0-8acd-d5c0db4371f4">
   <properties
+      key="Código CRUE"
+      value="CRUE_08_02"/>
+  <properties
       key="Nombre del Servicio"
       value="Gestión de credenciales."/>
   <properties
