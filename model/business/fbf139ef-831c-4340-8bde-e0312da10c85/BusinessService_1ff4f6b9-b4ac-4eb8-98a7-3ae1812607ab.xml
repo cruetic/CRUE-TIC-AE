@@ -1,4 +1,17 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_06_031 Soporte a dispositivos personales (BYOD)"
-    id="1ff4f6b9-b4ac-4eb8-98a7-3ae1812607ab"/>
+    id="1ff4f6b9-b4ac-4eb8-98a7-3ae1812607ab">
+  <properties
+      key="Código CRUE"
+      value="CRUE_06_031"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Soporte a dispositivos personales (BYOD)."/>
+  <properties
+      key="Descripción Servicio"
+      value="Soporte a la configuración para acceso a los dispositivos personales de forma segura"/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

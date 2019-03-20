@@ -1,4 +1,17 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_06_02&#x9;Mantenimiento de equipamiento informático corporativo."
-    id="c20d5d60-646b-4f2b-8e15-46bd83ac3e94"/>
+    id="c20d5d60-646b-4f2b-8e15-46bd83ac3e94">
+  <properties
+      key="Código CRUE"
+      value="CRUE_06_02"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Mantenimiento de equipamiento informático corporativo."/>
+  <properties
+      key="Descripción Servicio"
+      value="Resolución y atención a los problemas e incidencias del puesto de trabajo. Entendiendo por puesto de trabajo tanto pc sobremesa, pc portátil, tablet, terminal móvil "/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

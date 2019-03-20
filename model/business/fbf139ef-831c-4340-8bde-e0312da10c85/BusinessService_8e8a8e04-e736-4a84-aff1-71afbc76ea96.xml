@@ -1,4 +1,17 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_06_03&#x9;Mantenimiento de software corporativo."
-    id="8e8a8e04-e736-4a84-aff1-71afbc76ea96"/>
+    id="8e8a8e04-e736-4a84-aff1-71afbc76ea96">
+  <properties
+      key="Código CRUE"
+      value="CRUE_06_03"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Mantenimiento de software corporativo."/>
+  <properties
+      key="Descripción Servicio"
+      value="Instalación, actualización y configuración de software corporativo en el puesto de trabajo."/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

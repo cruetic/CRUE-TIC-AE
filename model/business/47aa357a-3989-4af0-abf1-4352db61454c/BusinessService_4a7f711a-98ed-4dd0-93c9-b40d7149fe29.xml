@@ -1,4 +1,17 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_07_021 Comunicaciones unificadas"
-    id="4a7f711a-98ed-4dd0-93c9-b40d7149fe29"/>
+    id="4a7f711a-98ed-4dd0-93c9-b40d7149fe29">
+  <properties
+      key="Código CRUE"
+      value="CRUE_07_021"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Comunicaciones unificadas"/>
+  <properties
+      key="Descripción Servicio"
+      value="Diseño, administración y gestión de las comunicaciones de voz, incluyendo de forma integrada voz, video y datos de modo unificado"/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

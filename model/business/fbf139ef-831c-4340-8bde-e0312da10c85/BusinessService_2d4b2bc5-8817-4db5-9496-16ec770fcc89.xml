@@ -1,4 +1,16 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_06_011 Cesión, préstamo y donación de equipamiento usado"
-    id="2d4b2bc5-8817-4db5-9496-16ec770fcc89"/>
+    id="2d4b2bc5-8817-4db5-9496-16ec770fcc89">
+  <properties
+      key="Código CRUE"
+      value="CRUE_06_011"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Cesión, préstamo y donación de equipamiento usado."/>
+  <properties
+      key="Descripción Servicio"/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

@@ -1,4 +1,17 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_06_06&#x9;Asesoramiento para adquisición de equipamiento informático y software."
-    id="58850451-c62f-4489-a2a8-b24834b044b6"/>
+    id="58850451-c62f-4489-a2a8-b24834b044b6">
+  <properties
+      key="Código CRUE"
+      value="CRUE_06_06"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Asesoramiento para adquisición de equipamiento informático y software."/>
+  <properties
+      key="Descripción Servicio"
+      value="Asesoramiento técnico para el equipamiento y software más adecuado a las necesidades del usuario"/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

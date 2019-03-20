@@ -1,4 +1,17 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_07_02&#x9;Telefonía Móvil "
-    id="95cfee72-cd21-49af-94c4-d4c02a8c96bb"/>
+    id="95cfee72-cd21-49af-94c4-d4c02a8c96bb">
+  <properties
+      key="Código CRUE"
+      value="CRUE_07_02"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Telefonía Móvil."/>
+  <properties
+      key="Descripción Servicio"
+      value="Diseño, administración y gestión de las comunicaciones de voz basadas en el uso de terminales móviles."/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

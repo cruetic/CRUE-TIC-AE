@@ -1,4 +1,17 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_07_01&#x9;Telefonía fija "
-    id="4d652e17-0b37-4d31-8f56-5ce45d325e7c"/>
+    id="4d652e17-0b37-4d31-8f56-5ce45d325e7c">
+  <properties
+      key="Código CRUE"
+      value="CRUE_07_01"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Telefonía fija."/>
+  <properties
+      key="Descripción Servicio"
+      value="Diseño, administración y gestión de las comunicaciones de voz basadas en el uso de terminales fijos."/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

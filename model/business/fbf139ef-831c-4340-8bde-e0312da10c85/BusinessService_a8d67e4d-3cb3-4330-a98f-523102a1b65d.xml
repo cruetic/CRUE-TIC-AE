@@ -1,4 +1,17 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_06_04&#x9;Impresión Corporativa"
-    id="a8d67e4d-3cb3-4330-a98f-523102a1b65d"/>
+    id="a8d67e4d-3cb3-4330-a98f-523102a1b65d">
+  <properties
+      key="Código CRUE"
+      value="CRUE_06_04"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Impresión Corporativa."/>
+  <properties
+      key="Descripción Servicio"
+      value="Instalación y configuración de equipamiento para servicios de impresión. Equipamiento local, en red, o a través de una empresa externa"/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

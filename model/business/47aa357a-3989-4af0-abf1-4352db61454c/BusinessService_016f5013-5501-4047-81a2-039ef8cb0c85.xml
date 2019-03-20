@@ -1,4 +1,17 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_07_04&#x9;Consulta Tarificación Telefónica "
-    id="016f5013-5501-4047-81a2-039ef8cb0c85"/>
+    id="016f5013-5501-4047-81a2-039ef8cb0c85">
+  <properties
+      key="Código CRUE"
+      value="CRUE_07_04"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Consulta Tarificación Telefónica."/>
+  <properties
+      key="Descripción Servicio"
+      value="Soporte a la aplicación que facilita el acceso a la información de consumo telefónico personal."/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

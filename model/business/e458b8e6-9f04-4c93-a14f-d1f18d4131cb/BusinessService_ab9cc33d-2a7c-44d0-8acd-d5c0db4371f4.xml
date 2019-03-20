@@ -1,4 +1,14 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_08_02&#x9;Gestión de credenciales"
-    id="ab9cc33d-2a7c-44d0-8acd-d5c0db4371f4"/>
+    id="ab9cc33d-2a7c-44d0-8acd-d5c0db4371f4">
+  <properties
+      key="Nombre del Servicio"
+      value="Gestión de credenciales."/>
+  <properties
+      key="Descripción Servicio"
+      value="Diseño, administración y gestión de la plataforma que almacena gestiona los datos y mecanismos de acceso a los servicios y aplicaciones de la Universidad"/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>
