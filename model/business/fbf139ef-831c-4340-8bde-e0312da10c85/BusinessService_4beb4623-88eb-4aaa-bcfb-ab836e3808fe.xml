@@ -1,4 +1,17 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_06_07&#x9;Soporte a eventos especiales."
-    id="4beb4623-88eb-4aaa-bcfb-ab836e3808fe"/>
+    id="4beb4623-88eb-4aaa-bcfb-ab836e3808fe">
+  <properties
+      key="Código CRUE"
+      value="CRUE_06_07"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Soporte a eventos especiales."/>
+  <properties
+      key="Descripción Servicio"
+      value="Soporte técnico en la realización de eventos (jornadas, congresos, presentaciones, formación on-line)"/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

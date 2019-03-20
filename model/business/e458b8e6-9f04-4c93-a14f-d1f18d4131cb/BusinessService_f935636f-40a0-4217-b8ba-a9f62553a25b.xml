@@ -1,4 +1,11 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_08_03&#x9;Dispositivos físicos de autenticación"
-    id="f935636f-40a0-4217-b8ba-a9f62553a25b"/>
+    id="f935636f-40a0-4217-b8ba-a9f62553a25b">
+  <properties
+      key="Código CRUE"
+      value="CRUE_08_03"/>
+  <properties
+      key="Descripción Servicio"
+      value="Facilita la obtención, gestión y utilización de dispositivos físicos para acceder y beneficiarse de diferentes servicios. Incluye TUI física TUI virtual en el móvil, llave de proximidad"/>
+</archimate:BusinessService>

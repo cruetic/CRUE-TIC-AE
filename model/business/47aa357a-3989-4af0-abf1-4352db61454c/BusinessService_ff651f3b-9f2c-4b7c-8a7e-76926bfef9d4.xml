@@ -1,4 +1,17 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_07_06&#x9;Conexión a red Inalámbrica"
-    id="ff651f3b-9f2c-4b7c-8a7e-76926bfef9d4"/>
+    id="ff651f3b-9f2c-4b7c-8a7e-76926bfef9d4">
+  <properties
+      key="Código CRUE"
+      value="CRUE_07_06"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Conexión a red Inalámbrica."/>
+  <properties
+      key="Descripción Servicio"
+      value="Diseño, administración y gestión de las comunicaciones soportadas sobre la red inalámbrica de la universidad"/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

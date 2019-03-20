@@ -1,4 +1,17 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_07_03&#x9;Fax "
-    id="8890c446-d214-4df2-8132-a53475b2d2cd"/>
+    id="8890c446-d214-4df2-8132-a53475b2d2cd">
+  <properties
+      key="Código CRUE"
+      value="CRUE_07_03"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Fax."/>
+  <properties
+      key="Descripción Servicio"
+      value="Diseño, administración y gestión de las comunicaciones de intercambio de fax."/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

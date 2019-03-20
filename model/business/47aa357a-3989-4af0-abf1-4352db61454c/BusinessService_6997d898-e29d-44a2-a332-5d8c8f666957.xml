@@ -1,4 +1,17 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_07_07&#x9;Conexión Externo a Red de Comunicaciones"
-    id="6997d898-e29d-44a2-a332-5d8c8f666957"/>
+    id="6997d898-e29d-44a2-a332-5d8c8f666957">
+  <properties
+      key="Código CRUE"
+      value="CRUE_07_07"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Conexión Externa a Red de Comunicaciones."/>
+  <properties
+      key="Descripción Servicio"
+      value="Diseño, administración y gestión de las comunicaciones desde una red externa a la institucional utilizando mecanismos de cifrado"/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

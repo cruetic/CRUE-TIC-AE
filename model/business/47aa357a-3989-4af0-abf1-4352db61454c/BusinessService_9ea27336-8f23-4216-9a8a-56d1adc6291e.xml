@@ -1,4 +1,17 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_07_05&#x9;Conexión a red Cableada"
-    id="9ea27336-8f23-4216-9a8a-56d1adc6291e"/>
+    id="9ea27336-8f23-4216-9a8a-56d1adc6291e">
+  <properties
+      key="Código CRUE"
+      value="CRUE_07_05"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Conexión a red Cableada."/>
+  <properties
+      key="Descripción Servicio"
+      value="Diseño, administración y gestión de las comunicaciones soportadas sobre la red de cableado estructurado de la universidad"/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

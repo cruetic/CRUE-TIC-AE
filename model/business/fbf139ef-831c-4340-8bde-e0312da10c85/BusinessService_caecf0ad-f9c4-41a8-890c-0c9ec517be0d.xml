@@ -1,4 +1,17 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_06_05&#x9;Seguridad Integral en el Puesto de Trabajo"
-    id="caecf0ad-f9c4-41a8-890c-0c9ec517be0d"/>
+    id="caecf0ad-f9c4-41a8-890c-0c9ec517be0d">
+  <properties
+      key="Código CRUE"
+      value="CRUE_06_05"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Seguridad Integral en el Puesto de Trabajo."/>
+  <properties
+      key="Descripción Servicio"
+      value="Configuración y administración centralizada de la seguridad en los equipos de usuario, incluyendo la administración de software de protección como antivirus."/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>
