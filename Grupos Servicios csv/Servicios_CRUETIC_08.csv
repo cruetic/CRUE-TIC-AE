@@ -1,0 +1,6 @@
+CATÁLOGO DE SERVICIOS TIC DE CRUE V3.0;;
+Cód. CRUE;Nombre del Servicio;Descripción del Servicio
+CRUE_08_01;Directorio.;Diseño, administración y gestión de la plataforma que almacena, organiza y publica información personal de los usuarios de la Universidad. Incluye el archivo fotográfico recogido con las diferentes aplicaciones.
+CRUE_08_02;Gestión de credenciales.;Diseño, administración y gestión de la plataforma que almacena gestiona los datos y mecanismos de acceso a los servicios y aplicaciones de la Universidad
+CRUE_08_03;Dispositivos físicos de autenticación;Facilita la obtención, gestión y utilización de dispositivos físicos para acceder y beneficiarse de diferentes servicios. Incluye TUI física TUI virtual en el móvil, llave de proximidad
+CRUE_08_05;Gestión de Certificados;Diseño, administración y gestión de la infraestructura de clave pública (PKI) de la universidad  para la emisión de certificados digitales. Incluye certificados de servidor, de aplicaciones, personales

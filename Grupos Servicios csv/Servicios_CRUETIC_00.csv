@@ -1,0 +1,22 @@
+CATÁLOGO DE SERVICIOS TIC DE CRUE V3.0;;
+Cód. CRUE;Nombre del Servicio;Descripción del Servicio
+CRUE_00_01;Autenticación Centralizada;Diseño, administración y gestión de la plataforma que facilita el acceso autenticado a los distintos servicios y aplicaciones de la Universidad mediante las claves concertadas de un usuario. 
+CRUE_00_02;Seguridad en red:Firewall, IPS,IDS;
+CRUE_00_03;Sistema antivirus y antispam en servidores;Es distinto al servicio de antivirus del puesto de trabajo
+CRUE_00_04;Gestión de red cableada;Diseño de la red, gestión de direccionamiento IP, gestión de DNS.
+CRUE_00_05;Gestión de red inalámbrica;
+CRUE_00_06;Backup centralizado de servidores;Sistemas para la centralización de copias de seguridad de servidores
+CRUE_00_07;Gestión de log y evidencias electrónicas.;
+CRUE_00_08;Gestión ancho de banda;
+CRUE_00_09;Sistema de almacenamiento en red;
+CRUE_00_10;Gestión de versiones;
+CRUE_00_11;Gestión de activos TI;
+CRUE_00_12;Gestión del Centro de Datos;Sistemas de gestión del CPD, tanto del principal como de respaldo.
+CRUE_00_13;Firma electrónica;Sistemas de firma electrónica basados en certificados reconocidos y distribuidos entre la comunidad universitaria.
+CRUE_00_14;Sellos electrónicos;Sellos electrónicos de órgano para la actuación administrativa automatizada
+CRUE_00_15;Sellado de tiempo;Sellos de tiempo emitidos por una TSA para garantizar el fechado electrónico de los documentos.
+CRUE_00_16;Digitalización certificada;Sistemas de digitalización certificada de documentos. 
+CRUE_00_17;Comunicación electrónica;Sistemas de comunicación electrónica que garanticen la integridad del mensaje y la identidad del remitente y el destinatario.
+CRUE_00_18;Notificación electrónica;Sistemas de notificación electrónica fehaciente que garanticen la recepción y acceso al contenido por parte del receptor.
+CRUE_00_19;Gestor de trámites;Solución para la gestión de trámites y expedientes electrónicos.
+CRUE_00_20;Pasarela de pago;Pasarela de pago web para los trámites que así lo requieren

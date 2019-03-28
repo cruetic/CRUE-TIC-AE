@@ -1,0 +1,7 @@
+CATÁLOGO DE SERVICIOS TIC DE CRUE V3.0;;
+Cód. CRUE;Nombre del Servicio;Descripción del Servicio
+CRUE_02_01;Supercomputación;Gestión de los recursos TIC  de computación de altas prestaciones orientados al cálculo o al procesamiento de datos científicos.
+CRUE_02_02;Alojamiento de Infraestructuras;Alojamiento y conectividad en el CPD para el despliegue de aplicaciones y servicios de investigación.
+CRUE_02_021;Infraestructura como servicio para la investigación;Creación de servidores virtuales para alojar servicios de investigación. Incluye IaaS y PaaS.
+CRUE_02_03;Gestión de Licencias software para investigación;Adquisición, gestión y validación centralizada de licencias de aplicaciones orientadas hacia la investigación.
+CRUE_02_04;Asesoramiento adquisición infraestrucutra y servicios TIC para la investigación;Consultoría técnica para la implementación de servicios TIC orientados a la investigación.
