@@ -1,0 +1,13 @@
+CATÁLOGO DE SERVICIOS TIC DE CRUE V3.0;;
+Cód. CRUE;Nombre del Servicio;Descripción del Servicio
+CRUE_01_01;Docencia Virtual;Aplicaciones para la docencia victual (LMS).
+CRUE_01_02;Soporte a aulas de informática de libre acceso;Instalación y configuración de equipos y software en aulas y ubicaciones de acceso libre. Siempre que se trate de puestos físicos, pues los virtuales están recogidos en aulas virtuales
+CRUE_01_03;Soporte a aulas de informática presenciales de uso docente;Instalación y configuración de equipos y software, en aulas de uso docente. Incluye laboratorios y aulas virtualizadas. Se trata de aulas que cuentan con puestos de trabajo físicos para los alumnos que asisten presencialmente, independientemente de que el servicio se ofrezca con herramientas de virtualización
+CRUE_01_031;Soporte a aulas virtuales de uso docente;Instalación y gestión de aulas virtuales accesibles para el alumnado de manera remota. Se trata de aulas virtuales para las que no existe ni aula ni puestos de trabajo físicos, accediendo el alumno en remoto con su puesto de trabajo
+CRUE_01_04;Soporte a Aulas multimedia;Instalación y configuración de equipos y software, en aulas con equipamiento audiovisual y no solo ordenadores.
+CRUE_01_05;Soporte a la elaboración de contenidos docentes;Asesoramiento en el uso de herramientas para la generación de contenidos docentes. Incluye la edición y producción de videos. Excluye el alojamiento de objetos multimedia, que se recoge en el grupo 5
+CRUE_01_051;Grabación automática de clases;Implantación, gestión y soporte de soluciones para grabación de clases, ya sea atendida o desatendida por personal TI. Excluye el alojamiento de objetos multimedia que se recoge en el grupo 5
+CRUE_01_06;Soporte a realización y correción de exámenes;Soporte a la automatización de la generación y/o correción de exámenes.
+CRUE_01_061;Registro de asistencia;Implantación, gestión y soporte de soluciones para el control de asistencia a clases del alumnado
+CRUE_01_062;Antiplagio;Implantación y gestión de plataforma antiplagio. Aunque el antiplagio también se usa para ayuda a la investigación se incluye en este grupo por considerarse de mayor impacto en la docencia
+CRUE_01_07;Gestión de licencias software para docencia;Adquisición, gestión y validación centralizada de licencias de software de uso docente.
