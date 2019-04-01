@@ -1,0 +1,17 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CRUE_03_475 Secretaría General. Gestión de expedientes jurídicos (copy)"
+    id="736d2d87-33d9-4cfd-abd5-fa4004b5a599">
+  <properties
+      key="Código CRUE"
+      value="CRUE_03_475"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Secretaría General. Gestión de expedientes jurídicos."/>
+  <properties
+      key="Descripción Servicio"
+      value=" "/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>
