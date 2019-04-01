@@ -5,9 +5,11 @@
   <properties
       key="Código"/>
   <properties
+      key="Nombre"
+      value="Gestión de problemas de la actividad comercial"/>
+  <properties
       key="Descripción"/>
   <properties
-      key="Nombre"/>
-  <properties
-      key="Tipo"/>
+      key="Tipo"
+      value="Capacidad"/>
 </archimate:Capability>

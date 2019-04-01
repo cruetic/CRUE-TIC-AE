@@ -5,9 +5,11 @@
   <properties
       key="Código"/>
   <properties
-      key="Nombre"/>
+      key="Nombre"
+      value="Identificación de oportunidades comerciales"/>
   <properties
       key="Descripción"/>
   <properties
-      key="Tipo"/>
+      key="Tipo"
+      value="Capacidad"/>
 </archimate:Capability>

@@ -5,9 +5,11 @@
   <properties
       key="Código"/>
   <properties
-      key="Nombre"/>
+      key="Nombre"
+      value="Gestión de infraestructuras de Investigación"/>
   <properties
       key="Descripción"/>
   <properties
-      key="Tipo"/>
+      key="Tipo"
+      value="Capacidad"/>
 </archimate:Capability>

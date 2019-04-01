@@ -5,9 +5,11 @@
   <properties
       key="Código"/>
   <properties
-      key="Nombre"/>
+      key="Nombre"
+      value="Servicios de soporte a las TIC"/>
   <properties
       key="Descripción"/>
   <properties
-      key="Tipo"/>
+      key="Tipo"
+      value="Capacidad"/>
 </archimate:Capability>
