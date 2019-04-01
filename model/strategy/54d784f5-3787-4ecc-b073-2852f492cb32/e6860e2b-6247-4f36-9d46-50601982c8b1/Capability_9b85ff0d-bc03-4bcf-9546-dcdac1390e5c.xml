@@ -1,0 +1,13 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gestión de solicitudes de estudiantes"
+    id="9b85ff0d-bc03-4bcf-9546-dcdac1390e5c">
+  <properties
+      key="Código"/>
+  <properties
+      key="Nombre"/>
+  <properties
+      key="Descripción"/>
+  <properties
+      key="Tipo"/>
+</archimate:Capability>

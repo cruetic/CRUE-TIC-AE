@@ -1,0 +1,13 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Búsqueda y descubrimiento de la información"
+    id="d6569bb4-839d-47cf-8346-8a7dcea7a1e9">
+  <properties
+      key="Código"/>
+  <properties
+      key="Nombre"/>
+  <properties
+      key="Descripción"/>
+  <properties
+      key="Tipo"/>
+</archimate:Capability>

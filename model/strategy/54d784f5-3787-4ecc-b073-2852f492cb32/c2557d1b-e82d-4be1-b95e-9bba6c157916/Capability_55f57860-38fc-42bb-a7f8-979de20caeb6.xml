@@ -1,0 +1,13 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Evaluación administrativa"
+    id="55f57860-38fc-42bb-a7f8-979de20caeb6">
+  <properties
+      key="Código"/>
+  <properties
+      key="Nombre"/>
+  <properties
+      key="Descripción"/>
+  <properties
+      key="Tipo"/>
+</archimate:Capability>

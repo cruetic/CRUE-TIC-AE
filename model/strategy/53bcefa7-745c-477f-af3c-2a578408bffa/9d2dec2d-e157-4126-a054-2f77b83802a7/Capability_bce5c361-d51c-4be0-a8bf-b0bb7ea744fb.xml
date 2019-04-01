@@ -1,0 +1,13 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gestión de marca"
+    id="bce5c361-d51c-4be0-a8bf-b0bb7ea744fb">
+  <properties
+      key="Código"/>
+  <properties
+      key="Nombre"/>
+  <properties
+      key="Descripción"/>
+  <properties
+      key="Tipo"/>
+</archimate:Capability>
