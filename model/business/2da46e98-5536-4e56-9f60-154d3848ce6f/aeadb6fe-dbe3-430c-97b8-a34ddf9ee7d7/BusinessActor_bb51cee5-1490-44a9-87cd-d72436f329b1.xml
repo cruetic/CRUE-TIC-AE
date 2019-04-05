@@ -1,4 +1,14 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_09_07_01 Estudiantes nacionales"
-    id="bb51cee5-1490-44a9-87cd-d72436f329b1"/>
+    id="bb51cee5-1490-44a9-87cd-d72436f329b1">
+  <properties
+      key="Código CRUE"
+      value="CRUE_09_07_01"/>
+  <properties
+      key="Nombre"
+      value="Estudiantes Nacionales"/>
+  <properties
+      key="Tipo"
+      value="Entidad"/>
+</archimate:BusinessActor>

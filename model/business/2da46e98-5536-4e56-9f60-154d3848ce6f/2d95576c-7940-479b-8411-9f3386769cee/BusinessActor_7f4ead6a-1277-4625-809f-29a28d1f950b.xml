@@ -1,4 +1,14 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_09_02_02 Gobierno autonómico"
-    id="7f4ead6a-1277-4625-809f-29a28d1f950b"/>
+    id="7f4ead6a-1277-4625-809f-29a28d1f950b">
+  <properties
+      key="Código CRUE"
+      value="CRUE_09_02_02"/>
+  <properties
+      key="Nombre"
+      value="Gobierno Autonómico"/>
+  <properties
+      key="Tipo"
+      value="Entidad"/>
+</archimate:BusinessActor>

@@ -1,4 +1,14 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_09_05_13 Cargos de gestión"
-    id="1af7fad7-4286-4efb-a962-89f2ba6fe44c"/>
+    id="1af7fad7-4286-4efb-a962-89f2ba6fe44c">
+  <properties
+      key="Código CRUE"
+      value="CRUE_09_05_13"/>
+  <properties
+      key="Nombre"
+      value="Cargos de Géstion"/>
+  <properties
+      key="Tipo"
+      value="Entidad"/>
+</archimate:BusinessActor>

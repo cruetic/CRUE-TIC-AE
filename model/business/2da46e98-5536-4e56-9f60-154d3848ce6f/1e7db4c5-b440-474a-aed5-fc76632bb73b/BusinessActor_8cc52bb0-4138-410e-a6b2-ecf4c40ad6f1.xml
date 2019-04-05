@@ -1,4 +1,14 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_09_06_06 Publicación científica"
-    id="8cc52bb0-4138-410e-a6b2-ecf4c40ad6f1"/>
+    id="8cc52bb0-4138-410e-a6b2-ecf4c40ad6f1">
+  <properties
+      key="Código CRUE"
+      value="CRUE_09_06_06"/>
+  <properties
+      key="Nombre"
+      value="Publicación Científica"/>
+  <properties
+      key="Tipo"
+      value="Entidad"/>
+</archimate:BusinessActor>

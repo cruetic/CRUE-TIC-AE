@@ -1,4 +1,14 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_09_08_05 Formación de grado"
-    id="c35bd9f0-c8b6-4542-a313-e3cb212eb661"/>
+    id="c35bd9f0-c8b6-4542-a313-e3cb212eb661">
+  <properties
+      key="Código CRUE"
+      value="CRUE_09_08_05"/>
+  <properties
+      key="Nombre"
+      value="Formación de Grado"/>
+  <properties
+      key="Tipo"
+      value="Entidad"/>
+</archimate:BusinessActor>

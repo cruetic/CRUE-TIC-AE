@@ -1,4 +1,14 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="CRUE_09_08_08 Consultoria especializada"
-    id="b00a5b8b-363c-4826-9cda-3cfe2f58b232"/>
+    name="CRUE_09_08_08 Consultoría especializada"
+    id="b00a5b8b-363c-4826-9cda-3cfe2f58b232">
+  <properties
+      key="Código CRUE"
+      value="CRUE_09_08_08"/>
+  <properties
+      key="Nombre"
+      value="Consultoría Especializada"/>
+  <properties
+      key="Tipo"
+      value="Entidad"/>
+</archimate:BusinessActor>

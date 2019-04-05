@@ -1,4 +1,14 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_09_05_07 Estudiante de títulos propios"
-    id="1c4922ff-c78d-4a9e-a65c-02f4f4d7f1ce"/>
+    id="1c4922ff-c78d-4a9e-a65c-02f4f4d7f1ce">
+  <properties
+      key="Código CRUE"
+      value="CRUE_09_05_07"/>
+  <properties
+      key="Nombre"
+      value="Estudiante de Títulos Propios"/>
+  <properties
+      key="Tipo"
+      value="Entidad"/>
+</archimate:BusinessActor>

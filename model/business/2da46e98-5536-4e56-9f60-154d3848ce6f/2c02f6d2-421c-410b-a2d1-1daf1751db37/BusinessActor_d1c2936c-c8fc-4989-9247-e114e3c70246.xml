@@ -1,4 +1,14 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="CRUE_09_08_03 Transferéncia"
-    id="d1c2936c-c8fc-4989-9247-e114e3c70246"/>
+    name="CRUE_09_08_03 Transferencia"
+    id="d1c2936c-c8fc-4989-9247-e114e3c70246">
+  <properties
+      key="Código CRUE"
+      value="CRUE_09_08_03"/>
+  <properties
+      key="Nombre"
+      value="Transferencia"/>
+  <properties
+      key="Tipo"
+      value="Entidad"/>
+</archimate:BusinessActor>

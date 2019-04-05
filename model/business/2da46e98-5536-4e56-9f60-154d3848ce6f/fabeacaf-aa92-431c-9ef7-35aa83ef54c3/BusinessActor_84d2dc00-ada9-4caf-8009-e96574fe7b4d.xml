@@ -1,4 +1,14 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_09_05_19 PAS"
-    id="84d2dc00-ada9-4caf-8009-e96574fe7b4d"/>
+    id="84d2dc00-ada9-4caf-8009-e96574fe7b4d">
+  <properties
+      key="Código CRUE"
+      value="CRUE_09_05_19"/>
+  <properties
+      key="Nombre"
+      value="PAS"/>
+  <properties
+      key="Tipo"
+      value="Entidad"/>
+</archimate:BusinessActor>

@@ -1,4 +1,14 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_09_02_03 Agencia acreditación estatal"
-    id="fe40787d-a298-44a6-ab55-b7d929223363"/>
+    id="fe40787d-a298-44a6-ab55-b7d929223363">
+  <properties
+      key="Código CRUE"
+      value="CRUE_09_02_03"/>
+  <properties
+      key="Nombre"
+      value="Agencia Acreditación Estatal"/>
+  <properties
+      key="Tipo"
+      value="Entidad"/>
+</archimate:BusinessActor>

@@ -818,4 +818,10 @@
           href="BusinessActor_b00a5b8b-363c-4826-9cda-3cfe2f58b232.xml#b00a5b8b-363c-4826-9cda-3cfe2f58b232"/>
     </children>
   </children>
+  <properties
+      key="Código CRUE"/>
+  <properties
+      key="Nombre"/>
+  <properties
+      key="Tipo"/>
 </archimate:ArchimateDiagramModel>

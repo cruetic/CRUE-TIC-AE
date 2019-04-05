@@ -1,4 +1,14 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="CRUE_09_01_01 _01 Campus virtual"
-    id="32a3e037-53de-4173-ab98-0e11ddd96ec4"/>
+    name="CRUE_09_01_01_01 Campus virtual"
+    id="32a3e037-53de-4173-ab98-0e11ddd96ec4">
+  <properties
+      key="Código CRUE"
+      value="CRUE_09_01_01_01"/>
+  <properties
+      key="Nombre"
+      value="Campus Virtual"/>
+  <properties
+      key="Tipo"
+      value="Entidad"/>
+</archimate:BusinessActor>

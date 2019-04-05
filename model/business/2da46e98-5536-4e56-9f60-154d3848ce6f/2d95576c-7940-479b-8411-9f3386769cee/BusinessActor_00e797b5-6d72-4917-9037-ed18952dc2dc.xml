@@ -1,4 +1,14 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_09_02_07 Fundación universitaria"
-    id="00e797b5-6d72-4917-9037-ed18952dc2dc"/>
+    id="00e797b5-6d72-4917-9037-ed18952dc2dc">
+  <properties
+      key="Código CRUE"
+      value="CRUE_09_02_07"/>
+  <properties
+      key="Nombre"
+      value="Fundación Universitaria"/>
+  <properties
+      key="Tipo"
+      value="Entidad"/>
+</archimate:BusinessActor>

@@ -1,4 +1,14 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_09_08_01 Instalaciones de investigación"
-    id="8ca96bf1-5030-4a54-ae61-cc3b34d2c858"/>
+    id="8ca96bf1-5030-4a54-ae61-cc3b34d2c858">
+  <properties
+      key="Código CRUE"
+      value="CRUE_09_08_01"/>
+  <properties
+      key="Nombre"
+      value="Instalaciones de Investigación"/>
+  <properties
+      key="Tipo"
+      value="Entidad"/>
+</archimate:BusinessActor>

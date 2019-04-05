@@ -1,4 +1,14 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_09_04_02 Empresa de limpieza"
-    id="1b4a1951-3f95-4372-8f14-26d19fb14601"/>
+    id="1b4a1951-3f95-4372-8f14-26d19fb14601">
+  <properties
+      key="Código CRUE"
+      value="CRUE_09_04_02"/>
+  <properties
+      key="Nombre"
+      value="Empresa de Limpieza"/>
+  <properties
+      key="Tipo"
+      value="Entidad"/>
+</archimate:BusinessActor>

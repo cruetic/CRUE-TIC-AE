@@ -1,4 +1,14 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_09_08_07 Formación no acreditada"
-    id="5d4fd303-a17b-458c-bf6e-64f0f4ec5238"/>
+    id="5d4fd303-a17b-458c-bf6e-64f0f4ec5238">
+  <properties
+      key="Código CRUE"
+      value="CRUE_09_08_07"/>
+  <properties
+      key="Nombre"
+      value="Formación no Acreditada"/>
+  <properties
+      key="Tipo"
+      value="Entidad"/>
+</archimate:BusinessActor>

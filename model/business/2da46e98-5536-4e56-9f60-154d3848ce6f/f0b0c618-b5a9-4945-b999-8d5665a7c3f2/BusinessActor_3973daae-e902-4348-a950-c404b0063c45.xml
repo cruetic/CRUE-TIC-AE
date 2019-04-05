@@ -1,4 +1,14 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_09_04_04 Empresa de cátering"
-    id="3973daae-e902-4348-a950-c404b0063c45"/>
+    id="3973daae-e902-4348-a950-c404b0063c45">
+  <properties
+      key="Código CRUE"
+      value="CRUE_09_04_04"/>
+  <properties
+      key="Nombre"
+      value="Empresa de Cátering"/>
+  <properties
+      key="Tipo"
+      value="Entidad"/>
+</archimate:BusinessActor>

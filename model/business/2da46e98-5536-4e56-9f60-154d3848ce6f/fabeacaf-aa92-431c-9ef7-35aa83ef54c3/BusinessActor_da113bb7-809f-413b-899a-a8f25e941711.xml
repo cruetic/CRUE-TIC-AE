@@ -1,4 +1,14 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_09_05_16 Investigadores externos"
-    id="da113bb7-809f-413b-899a-a8f25e941711"/>
+    id="da113bb7-809f-413b-899a-a8f25e941711">
+  <properties
+      key="Código CRUE"
+      value="CRUE_09_05_16"/>
+  <properties
+      key="Nombre"
+      value="Investigadores Externos"/>
+  <properties
+      key="Tipo"
+      value="Entidad"/>
+</archimate:BusinessActor>

@@ -1,4 +1,14 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_09_05_17 Técnico de laboratorio"
-    id="99e36e4c-9f2b-47f6-9667-baec744eb9d1"/>
+    id="99e36e4c-9f2b-47f6-9667-baec744eb9d1">
+  <properties
+      key="Código CRUE"
+      value="CRUE_09_05_17"/>
+  <properties
+      key="Nombre"
+      value="Técnico de Laboratorio"/>
+  <properties
+      key="Tipo"
+      value="Entidad"/>
+</archimate:BusinessActor>

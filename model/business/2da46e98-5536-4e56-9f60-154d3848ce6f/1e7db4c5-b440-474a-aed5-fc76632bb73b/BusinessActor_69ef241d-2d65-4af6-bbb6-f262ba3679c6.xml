@@ -1,4 +1,14 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRUE_09_06_03 Título de doctor"
-    id="69ef241d-2d65-4af6-bbb6-f262ba3679c6"/>
+    id="69ef241d-2d65-4af6-bbb6-f262ba3679c6">
+  <properties
+      key="Código CRUE"
+      value="CRUE_09_06_03"/>
+  <properties
+      key="Nombre"
+      value="Título de Doctor"/>
+  <properties
+      key="Tipo"
+      value="Entidad"/>
+</archimate:BusinessActor>
