@@ -1,0 +1,14 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CRUE_09_01_02 _02_03 Amazon WS"
+    id="0449347e-d978-4bfa-b634-43b140c158c9">
+  <properties
+      key="Código CRUE"
+      value="CRUE_09_01_02_02_03"/>
+  <properties
+      key="Nombre"
+      value="Amazon WS"/>
+  <properties
+      key="Tipo"
+      value="Entidad"/>
+</archimate:BusinessActor>

@@ -1,0 +1,14 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CRUE_09_01_02 _02_01 Sede CPD A"
+    id="0976ccdc-95e7-43eb-8a4b-8c2cfeabcb72">
+  <properties
+      key="Código CRUE"
+      value="CRUE_09_01_02_02_01"/>
+  <properties
+      key="Nombre"
+      value="Sede CPD A"/>
+  <properties
+      key="Tipo"
+      value="Entidad"/>
+</archimate:BusinessActor>

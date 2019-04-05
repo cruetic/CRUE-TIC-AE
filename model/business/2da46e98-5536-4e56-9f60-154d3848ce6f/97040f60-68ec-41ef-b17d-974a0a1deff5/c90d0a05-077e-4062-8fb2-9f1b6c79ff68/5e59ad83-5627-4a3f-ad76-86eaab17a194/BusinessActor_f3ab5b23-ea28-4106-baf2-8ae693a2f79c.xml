@@ -1,0 +1,14 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CRUE_09_01_02 _02_02 Microsoft Azure"
+    id="f3ab5b23-ea28-4106-baf2-8ae693a2f79c">
+  <properties
+      key="Código CRUE"
+      value="CRUE_09_01_02_02_02"/>
+  <properties
+      key="Nombre"
+      value="Microsoft Azure"/>
+  <properties
+      key="Tipo"
+      value="Entidad"/>
+</archimate:BusinessActor>
