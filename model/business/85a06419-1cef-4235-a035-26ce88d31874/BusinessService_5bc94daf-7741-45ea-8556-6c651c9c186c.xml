@@ -1,6 +1,6 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="CRUE_01_01&#x9;Docencia Virtual"
+    name="CRUE_01_01 Docencia Virtual"
     id="5bc94daf-7741-45ea-8556-6c651c9c186c">
   <properties
       key="Código CRUE"
@@ -10,7 +10,7 @@
       value="Docencia Virtual"/>
   <properties
       key="Descripción Servicio"
-      value="Aplicaciones para la docencia victual (LMS)."/>
+      value="Aplicaciones para la docencia virtual (LMS)."/>
   <properties
       key="Tipo"
       value="Servicio"/>
