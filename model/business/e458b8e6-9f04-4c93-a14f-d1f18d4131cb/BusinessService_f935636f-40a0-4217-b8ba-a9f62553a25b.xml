@@ -10,7 +10,7 @@
       value="Dispositivos físicos de autenticación"/>
   <properties
       key="Descripción Servicio"
-      value="Facilita la obtención, gestión y utilización de dispositivos físicos para acceder y beneficiarse de diferentes servicios. Incluye TUI física TUI virtual en el móvil, llave de proximidad"/>
+      value="Facilita la obtención, gestión y utilización de dispositivos físicos para acceder y beneficiarse de diferentes servicios. Incluye TUI física TUI virtual en el móvil, llave de proximidad, etc."/>
   <properties
       key="Tipo"
       value="Servicio"/>
