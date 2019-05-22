@@ -3,12 +3,14 @@
     name="Desarrollo del Plan Estratégico"
     id="6e69bb23-2797-4d7f-bdd2-b64910992b29">
   <properties
-      key="Código"/>
+      key="Código"
+      value="CRUE_01_01"/>
   <properties
       key="Nombre"
       value="Desarrollo del Plan Estratégico"/>
   <properties
-      key="Descripción"/>
+      key="Descripción"
+      value="Actividades, procesos, recursos  y sistemas de información involucrados en el desarrollo del Plan Estratégico"/>
   <properties
       key="Tipo"
       value="Capacidad"/>
