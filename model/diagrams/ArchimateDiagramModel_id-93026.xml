@@ -11,6 +11,9 @@
       lineColor="#000000"
       fillColor="#400080"
       alpha="230">
+    <features
+        name="lineAlpha"
+        value="230"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="4f6576eb-4669-47f1-9a54-706d74c99152"
@@ -1640,6 +1643,9 @@
       lineColor="#000000"
       fillColor="#400080"
       alpha="102">
+    <features
+        name="lineAlpha"
+        value="102"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="35de2e24-e882-423d-ac66-a27938e3c049"
@@ -5121,6 +5127,9 @@
       lineColor="#000000"
       fillColor="#400080"
       alpha="179">
+    <features
+        name="lineAlpha"
+        value="179"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="92b6fd9d-e46e-4067-9a7b-23e85ce626fb"
@@ -5920,6 +5929,9 @@
       fillColor="#a8d6d7"
       alpha="153"
       content="Legend">
+    <features
+        name="lineAlpha"
+        value="153"/>
     <bounds
         x="2193"
         y="160"
@@ -5981,6 +5993,9 @@
       fillColor="#a8d6d7"
       alpha="153"
       content="Locations">
+    <features
+        name="lineAlpha"
+        value="153"/>
     <bounds
         x="2193"
         y="585"
@@ -6042,6 +6057,9 @@
       fillColor="#a8d6d7"
       alpha="153"
       content="Market Segments">
+    <features
+        name="lineAlpha"
+        value="153"/>
     <bounds
         x="2193"
         y="997"
@@ -6088,6 +6106,9 @@
       fillColor="#a8d6d7"
       alpha="153"
       content="Products">
+    <features
+        name="lineAlpha"
+        value="153"/>
     <bounds
         x="2193"
         y="1376"
@@ -6254,6 +6275,9 @@
       fillColor="#a8d6d7"
       alpha="153"
       content="Consumers">
+    <features
+        name="lineAlpha"
+        value="153"/>
     <bounds
         x="2193"
         y="2128"
@@ -6375,6 +6399,9 @@
       fillColor="#a8d6d7"
       alpha="153"
       content="Stakeholders">
+    <features
+        name="lineAlpha"
+        value="153"/>
     <bounds
         x="2193"
         y="2727"
@@ -6541,6 +6568,9 @@
       fillColor="#ffffff"
       alpha="0"
       content="UCISA UK HE CAPABILITY MODEL">
+    <features
+        name="lineAlpha"
+        value="0"/>
     <bounds
         x="693"
         y="7"

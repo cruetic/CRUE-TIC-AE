@@ -13,6 +13,9 @@
       fillColor="#ffffff"
       alpha="0"
       content="CRUE - MODELO DE CAPACIDADES UNIVERSIDAD TIPO">
+    <features
+        name="lineAlpha"
+        value="0"/>
     <bounds
         x="588"
         width="913"
@@ -424,7 +427,7 @@
           id="7f08cbbb-56d4-489c-a407-ef2dcff98740"
           targetConnections="5c5a7dad-f907-41f6-be1e-3ee37e13b2ad">
         <bounds
-            x="300"
+            x="312"
             y="48"
             width="120"
             height="73"/>
